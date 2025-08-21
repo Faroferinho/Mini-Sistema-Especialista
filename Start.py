@@ -5,6 +5,8 @@ from collections import Counter
 
 import numpy
 
+from transformers import pipeline
+
 nlp = spacy.load("en_core_web_sm")
 
 
@@ -36,11 +38,14 @@ def get_perplexity(text):
 def calculate_burstiness(tokens):
     word_positions = {}
 
+    # Get the index of each time a token appears and where
     for i, word in enumerate(tokens):
         if word not in word_positions:
             word_positions[word] = []
         word_positions[word].append(i)
 
+    # if a word has more than one appearence get the difference between positions
+    # and dived the standard deviation and divide it by the mean of the deviation
     burstiness_scores = {}
     for word, positions in word_positions.items():
         if len(positions) > 1:
@@ -50,6 +55,11 @@ def calculate_burstiness(tokens):
 
     return burstiness_scores
 
+
+def sentiment_analyser(doc):
+
+    return doc
+        
 
 doc = nlp(open("Sample.txt").read())
 

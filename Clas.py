@@ -15,7 +15,7 @@ class Clas:
         return self.rawText
     
     def setTokens(self):
-        self.tokens = s.get_tokens_from_text(self.rawText)
+        self.tokens = s.get_tokens_from_doc(self.rawText)
 
     def setWordFrequency(self):
         self.word_frequency = s.get_word_frequency(self.tokens)

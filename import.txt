@@ -3,4 +3,8 @@ pip install -U spacy
 python -m spacy download en_core_web_sm
 python -m spacy download pt_core_news_sm
 
-pip install -q transformers
+pip install flask
+
+powershell -> $ python3 -m pip install nltk
+
+textstat

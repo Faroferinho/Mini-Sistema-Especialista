@@ -40,7 +40,7 @@ def returnTest():
 
 @API.route('/text',methods=['POST'])
 def post_method():
-    new_text = request.get_data()
+    new_text = request.get_data(as_text=True)
     example.setText(new_text)
     return example.getText()
 

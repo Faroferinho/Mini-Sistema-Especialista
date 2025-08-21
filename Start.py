@@ -1,4 +1,6 @@
 import math
+
+import spacy
 from collections import Counter
 
 import numpy

@@ -1,6 +1,6 @@
 import math
+import re
 
-import spacy
 from collections import Counter
 
 import numpy
@@ -43,7 +43,7 @@ def get_perplexity(text):
     return 2 ** (entropy / n_gram_quantity)
 
 
-# Calculate
+# Calculate the intermittent frequency of words in the text.
 def calculate_burstiness(tokens):
     word_positions = {}
 
@@ -65,20 +65,23 @@ def calculate_burstiness(tokens):
     return burstiness_scores
 
 
+# Get if the feelings of the text are not very similar to machine generated text
 def sentiment_analyser(doc):
     sia = SentimentIntensityAnalyzer()
 
     return sia.polarity_scores(doc.text)
 
 
-def extract_named_entities(text):
+# Get the entities associated with the example
+def extract_named_entities(doc):
     # As I'm using both nltk and spacy, to avoid conflicts it is better to keep this way
-    tokens = word_tokenize(text)
+    tokens = word_tokenize(doc.text)
     pos_tags = pos_tag(tokens)
     named_entities = ne_chunk(pos_tags)
     return named_entities
 
 
+# Get the text coherence between sentences
 def analyse_coherence(sentences):
     # Training of the Word2Vec model
     model = Word2Vec(sentences, vector_size=100, window=5, min_count=1, workers=4)
@@ -104,6 +107,7 @@ def analyse_coherence(sentences):
     return numpy.mean(coherence_scores)
 
 
+# Apply the Flesch Reading Ease, Flesch-Kincaid Test Grade and the Gunning Fog Index to the sample text
 def analyse_readability(doc):
     reading_ease = textstat.flesch_reading_ease(doc.text)
     kincaid_grade = textstat.flesch_kincaid_grade(doc.text)
@@ -116,9 +120,27 @@ def analyse_readability(doc):
     }
 
 
+# Get the Stylometry of the text, if it is not too verbose,
+# the punctuation frequency is off or the sentence length is too big
+def analyse_stylometry(doc):
+    sentences = nltk.sent_tokenize(doc.text)
+    words = word_tokenize(doc.text)
+
+    average_sentence_length = len(words) / len(sentences)
+    verbosity_value = len(set(words)) / len(words)
+    punctuation_frequency = len(re.findall(r'[^\w\s]', doc.text)) / len(words)
+
+    return {
+        "Average Sentence Length" : average_sentence_length,
+        "Verbosity Value" : verbosity_value,
+        "Punctuation Frequency" : punctuation_frequency
+    }
+
+
 doc = nlp(open("Sample.txt").read())
 tokens = get_tokens_from_doc(doc)
-sentences = [word_tokenize(sentence) for sentence in nltk.sent_tokenize(doc.text)] # Also consequence of spacy and nltk conflict
+# Also consequence of spacy and nltk conflict
+sentences = [word_tokenize(sentence) for sentence in nltk.sent_tokenize(doc.text)]
 
 frequency = get_word_frequency(tokens)
 
@@ -128,11 +150,13 @@ burstiness = calculate_burstiness(tokens)
 
 sentiment = sentiment_analyser(doc)
 
-named_entities = extract_named_entities(doc.text)
+named_entities = extract_named_entities(doc)
 
 coherence = analyse_coherence(sentences)
 
 readability = analyse_readability(doc)
+
+stylometry = analyse_stylometry(doc)
 
 print(f"Example being Used: \n{doc} \n")
 print(f"Tokenized Text: \n{tokens} \n")
@@ -143,3 +167,4 @@ print(f"Sentiment: \n{sentiment}\n")
 print(f"Named Entities: \n{named_entities}\n")
 print(f"Coherence Between Sentences: \n{coherence}\n")
 print(f"Readability Scores: \n{readability}\n")
+print(f"Analise Stylometry : \n{stylometry}\n")

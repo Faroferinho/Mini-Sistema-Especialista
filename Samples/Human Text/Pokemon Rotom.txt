@@ -1,0 +1,27 @@
+Rotom is a dual-type Electric/Ghost Pokémon introduced in Generation IV.
+
+While it is not known to evolve into or from any other Pokémon, Rotom has the ability to possess the motors of certain appliances and change forms. It also learns a new move depending on which appliance it possesses. Rotom's form can be changed in by allowing it to possess the appliances in Rotom's Room or from the Rotom Catalog.
+
+    When it has not possessed any appliance or is possessing a light bulb, it is dual-type Electric/Ghost, and learns Thunder Shock if the move it had in its other forms is the only move it knows.
+    When it possesses a microwave oven, it becomes Heat Rotom, is dual-type Electric/Fire, and learns Overheat.
+    When it possesses a washing machine, it becomes Wash Rotom, is dual-type Electric/Water, and learns Hydro Pump.
+    When it possesses a refrigerator, it becomes Frost Rotom, is dual-type Electric/Ice, and learns Blizzard.
+    When it possesses an electric fan, it becomes Fan Rotom, is dual-type Electric/Flying, and learns Air Slash.
+    When it possesses a lawn mower, it becomes Mow Rotom, is dual-type Electric/Grass, and learns Leaf Storm.
+
+In Generation IV, Rotom had Ghost as its secondary type regardless of its form.
+
+(Specifics may differ in past games. Refer to Game data→Form data for these details.)
+
+In Generation VII, Rotom can possess a special Pokédex and become the Rotom Pokédex, which has the ability to speak human language. In Generation VIII and Generation IX, Rotom can possess a smartphone that doubles as a Pokédex and become the Rotom Phone. Rotom are also used in Rotomi terminals, and Drone Rotom. The Rotom Phone can be used to power a Rotom Bike.
+Biology
+
+Rotom is a small, orange Pokémon that has a body of plasma. It is mostly spherical, with a bulb below its body and a long pointed protrusion on top, making it shaped like a lightning rod. There is a whitish blue aura of electricity around it that forms lightning bolt-shaped appendages. When moving quickly, these appendages tend to disappear, in favor of a long similar-looking trail of blue electricity. It has teeth, and its unique, blue eyes have a dividing line across them. In its base form, Rotom cannot be touched by anyone without the latter being shocked in the process. According to the Rotom Catalog, Rotom in its base form is possessing a light bulb. Rotom lack any sort of circulatory system or pulse.[1]
+
+Rotom have the ability to enter and control appliances. They typically use their abilities to make mischief, often using the household items they possess to pull pranks on unsuspecting people, as seen in the Pokémon the Series episode Get Your Rotom Running!. Despite this, some Rotom have taken to inhabiting electronics with the intent of helping others. The Rotom Pokédex, Rotom Phones, Rotomi, and Drone Rotom are some examples. Additionally, in Galar, the Rotom Phone is used to power the Rotom Bike. Some of these forms allow Rotom to speak human languages, and demonstrate that Rotom are highly intelligent. Rotom tend to reside in abandoned buildings. Research continues on Rotom and its ability to power unique motors. In the Pokémon the Series episode Rotom's Wish!, a specific Rotom was shown to have the ability to time travel.
+Forms
+Rotom has five alternate forms: Heat Rotom, Wash Rotom, Frost Rotom, Fan Rotom, and Mow Rotom.
+
+Rotom's forms can be accessed by possessing specific household appliances with a special motor, namely: a convection microwave oven (Heat Rotom), a washing machine (Wash Rotom), a refrigerator (Frost Rotom), an electric fan (Fan Rotom), and a lawnmower (Mow Rotom). When Rotom changes forms, its eyes and electric aura change colors, and its aura appendages take on different shapes: red with oven mitts as Heat Rotom, blue with clothespins as Wash Rotom, purple with lightning bolts as Frost Rotom, yellow with air curls as Fan Rotom, and green with a ripped strip as Mow Rotom.
+
+In modern Sinnoh, Rotom's forms were said to have been first discovered and documented by Charon. However, Rotom existed in Hisui and was also documented in the Hisui Pokédex. The electric fan that Rotom inhabits to become Fan Rotom was invented by a boy, and was the first Rotom-related appliance to be developed, leading to the creation of many other appliances like it. The washing machine model that Rotom can inhabit has been discontinued, which caused its price to skyrocket. Heat Rotom will become lethargic if the oven it possesses is malfunctioning.

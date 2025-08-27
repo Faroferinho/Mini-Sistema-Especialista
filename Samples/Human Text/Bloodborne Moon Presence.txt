@@ -1,0 +1,25 @@
+Description
+
+An eldritch being composed of human flesh and bone, with the exception of its head. It is covered in dozens of tentacles, mainly in its head, where they resemble hair, and tail. Its body is mainly a large human spine and ribs. Moon Presence doesn't have a face, instead it only has a hole in its head. It's the Great One which created and rules over the Hunter's Dream. Defeating it will result in the "Childhood Beginning's" ending.
+Access
+
+    It can only be fought in the Hunter's Dream if three One Third of Umbilical Cords were consumed before defeating Gehrman, the First Hunter. The Moon Presence is fought immediately after defeating Gehrman.
+
+Lore
+
+One of the Great Ones in Bloodborne, the Moon Presence controls and manipulates all that resides within the Hunter's Dream. The Moon Presence's origin is largely unknown, but its first known appearance to humanity was to Laurence, who summoned it for unknown reasons. Evidenced by the note located on the upper floor of the Lecture Building, the Moon Presence also has a connection to Paleblood.
+
+"The nameless moon presence beckoned by Laurence and his associates. Paleblood."
+
+Before being encountered by the Hunter, the Moon Presence had bound Gehrman, the First Hunter to the Hunter's Dream, an outlet seemingly used by the Moon Presence to further its own desires, mainly involving the killing of the other Great Ones. Whether or not this has to deal with halting the Scourge of the Beast and the slaughter of other Great Ones is unknown. However, a note found on the upper floor of the Lecture Hall lends legitimacy to the idea that the Moon Presence is actively seeking out and trying to eliminate other Great Ones.
+
+"Hunt the Great Ones, Hunt the Great Ones."
+Strategy
+
+Its attacks are quick and erratic, similar to Blood-starved Beast. Despite being the final boss of Bloodborne, the Moon Presence is actually somewhat easier to fight than Gehrman, who is fought just before the Moon Presence.
+
+The Moon Presence begins the fight with three-hit combos that cover a large distance, often leaving its back open to attacks.
+
+At 50% HP, it will cast white orbs that explode into blood, applying a debuff similar to Numbing Mist. This attack can be avoided by standing behind the Moon Presence when it is cast.
+
+The boss can use a large AoE shockwave that will reduce the Hunter's HP to 1. However, this leaves the Moon Presence open to attack, as it needs 5-6 seconds to recover. It is possible to Rally HP back during this window. This attack is unavoidable.

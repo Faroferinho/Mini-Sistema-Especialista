@@ -1,0 +1,34 @@
+Description
+
+His lower body is thin, apparently flayed, and sports four asymmetrical, but strong, hoofed legs, while his upper torso is a portrait of pure madness: between two long arms with large sharp talons, protrudes a disproportionate hunch that shows a circular maw lined inside with irregular teeth and clusters of eyes, and his face, apparently blind from the right eye, is a melted visage of wrinkled skin and crooked teeth, stretched over an elongated head vaguely resembling that of a horse.
+Location
+
+    Underground Corpse Pile:
+        In the Hunter's Nightmare, following upward through the path outside the Nightmare Church.
+
+Lore
+
+Ludwig was the first of many Healing Church hunters to come, many of whom were clerics. As it was, clerics transformed into the most hideous beasts.[1]
+
+Under Ludwig's leadership, the Healing Church gained its own core of hunters. Ludwig trained his hunters to be honorable Spartans, and even trained ordinary Yharnamites, effectively uniting the populace and using it to combat the scourge.
+
+Ludwig wielded a mystical greatsword that he himself discovered, allowing him to channel the abyssal cosmos. He looked to the sword and the tiny beings of light that surrounded it for guidance, allowing him to empty his fears, even in the middle of a hunt. It is implied the sword is itself sentient to some degree, which influenced Ludwig greatly.
+
+Despite seemingly being respected Ludwig had his detractors, who appear to have disagreed with his methods and did not appreciate his hunters. These detractors dismissed Ludwig as a beast-possessed degenerate and he suffered much denigration at their hands.
+
+At some point, Ludwig succumbed to the bloodlust and mutated into a horrifying beast, a terrible cross between horse, wolf and man. He was trapped in the Hunter's Nightmare, and completely lost himself to the blood. He resided in the Underground Corpse Pile where, by killing countless beasts and hunters in his blind rage, created the blood river which flows through the Nightmare.
+Strategy
+
+In his first phase, Ludwig is weak to Bolt, Fire, and Arcane. In his second phase, his Arcane defense doubles (from 12% to 25%).
+
+Alternatively, for players with passive playstyle, they can acquire the Simon's Bowblade early, then summon an NPC Hunter to tank and safely deal with Ludwig from a distance. This tactic works well for both phases.
+First Phase (Accursed)
+
+Much like The One Reborn, Ludwig has limbs in a variety of locations, making it difficult to attack him. These flailing atrocities cause blunt damage when struck by them. A set of legs on his rear can kick behind him, while other arms scattered throughout will swipe when given the chance. His front-end is host to his two primary arms, which will perform wide, heavily damaging sweeps. His left side has only a single frail appendage. Keeping distance will cause Ludwig to occasionally spit a damaging fluid.
+
+When he screams and grips to the ceiling, sprint in the direction of the farthest wall. Ludwig should land just behind you if you don't slow down.
+Second Phase (Holy Blade)
+
+A second phase begins when he loses 50% of his health. In this phase, he will use far-reaching sword strikes and launch arcane attacks, ranging from relatively small AoE's to ranged waves of moonlight. One of note is a particular attack where Ludwig raises the Sword high over his head, charging it with arcane energy, before slamming onto the ground, releasing a massive blast that blankets the entire area in front of him. As this attack can potentially one-shot, either attempt to stagger him during the charge-up sequence or run to the other side of the boss arena.
+
+It is also worth noting that, unlike in his first phase, he no longer takes bonus damage from serrated weapons, which while making minimal difference in the fight is still worth mentioning. The implication of this is that the first phase was Ludwig as just another beast gone mad, and that the second phase is the sword bringing back his humanity and sanity enough to give him a dignified death as a man instead of being slaughtered like a beast.

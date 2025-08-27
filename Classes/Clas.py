@@ -20,13 +20,13 @@ class Clas:
     # Aqui, como eu falei no Start, eu mudei o nome, porque eu não consegui
     # Fazer com que eles tivessem o mesmo nome, e diferenciar por Override    
     def setTokens(self):
-        self.tokens = s.get_tokens_from_doc(self.rawText)
+        self.tokens = s.get_tokens_from_text(self.rawText)
 
     def setWordFrequency(self):
         self.word_frequency = s.get_word_frequency(self.tokens)
 
     def setPerplexity(self):
-        self.perplexity = s.get_perplexity(self.rawText)
+        self.perplexity = f"{s.get_perplexity(self.rawText)}"
 
     def calculateBurstiness(self):
         self.burstiness_scores = s.calculate_burstiness(self.tokens)

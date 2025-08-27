@@ -1,12 +1,19 @@
 from flask import Flask, request
-from Clas import Clas
+from Classes.Clas import Clas
+from flask_cors import CORS, cross_origin
 
 API = Flask(__name__)
 
+cors = CORS(API)
 example = Clas()
 
-@API.route('/text',methods=['GET'])
+
+@cross_origin(CORS(API, resources={r"/api/*": {"origins": "http://localhost:3000"}}))
+@API.route('/text', methods=['POST'])
 def returnAll():
+    jsonTest = request.get_json()
+    example.setText(jsonTest['text'])
+
     example.setTokens()
     example.setWordFrequency()
     example.setPerplexity()
@@ -39,8 +46,8 @@ def returnTest():
 #     return s.calculate_burstiness()
 
 @API.route('/text',methods=['POST'])
-def post_method():
-    new_text = request.get_data(as_text=True)
+def post_method(text):
+    new_text = text
     example.setText(new_text)
     return example.getText()
 

@@ -1,0 +1,26 @@
+Description
+
+Father Gascoigne is an experienced hunter who has succumbed to the blood-drunkenness of the hunt and, as such, descended into a frenzied killing spree. He is armed with the Hunter Axe and a modified version of the Hunter Pistol that acts like the Hunter Blunderbuss, and he also wears his titular Gascoigne's Set.
+
+Despite his title, he is not a Healing Church priest. This is referenced in his attire's description.
+Location
+
+    Tomb of Oedon:
+        Found past the bridge with the flaming boulder in Central Yharnam.
+
+Lore
+
+Gascoigne was a priest in a foreign land, where he earned the title of "Father". At some point in his life, Gascoigne travelled to Yharnam and eventually joined the Healing Church as a hunter. From here, Gascoigne was partnered with Henryk, an older hunter. The two made an effective duo, and their partnership led to Henryk's 'tragically' long life.
+
+At some point, Father Gascoigne took a wife by the name of Viola and the pair had children. As Gascoigne continued to hunt, he became affected by the bloodlust, forgetting even his family. Viola was known to play a Tiny Music Box, a memento of theirs, in order to draw him home when he had been out all night, helping him remember her and their children when he began succumbing to the bloodlust. Their daughter, the Young Girl, still resides in Central Yharnam, unless the Hunter sends her to Iosefka's Clinic, where she becomes a Celestial Minion, or Oedon Chapel, where she will be killed by the Maneater Boar. The Tiny Music Box will be given to the Hunter when speaking with the Young Girl and can be used against Father Gascoigne to stun him during battle.
+
+During his final hunt, Gascoigne finally succumbed to the bloodlust, becoming little more than the beasts he had hunted. Viola left their home in order to search for her husband but forgot her music box. Her body is found in the Tomb of Oedon, near to where Gascoigne is hacking away at corpses until the Hunter puts him down. It is unclear whether he killed his wife or the beastly scourge did; nonetheless, her loss cost him his humanity.
+Strategy
+
+Father Gascoigne has three forms in the battle. His first two forms use his trick weapon, the Hunter Axe. He begins with the axe in shortened form and will shoot his Hunter Pistol at the Hunter after his combos or dodges. Gascoigne will flinch when hit by most weapons two or three times, but will then gain hyper-armor and be able to attack. Learning this timing presents a good opportunity to stagger him and perform a Visceral Attack. Alternately, dodge to the side and then resume attacking. Try to attack him with a transform attack, as this will stagger him. Pay attention not to get stuck in the graves if you're fighting on the lower part of the arena, and remember some of Gascoigne's attacks can break them.
+
+At mid-range, Gascoigne will occasionally roll towards the player; firing during his roll will often interrupt his following attack and cause a stagger. (This technique can work for all Hunter enemies, but is not guaranteed, as they often attack with their firearm after they roll)
+
+Once his health is reduced to about 2/3 of his maximum, he will transform the axe into its longer two-handed version. He can still use his Pistol while in this phase, despite the fact that no other hunter can do this.
+
+For the final 1/3 of Father Gascoigne's health, he will transform into a wolf-like creature for the rest of the battle. This form is stronger, faster, and more aggressive. He also gets a new jump attack, which can catch players off guard if they aren't careful. However, his resistance to Fire damage drops accordingly, so you can save some Molotov Cocktails to finish off this phase faster. It is still possible to stagger him with firearms, and some of his attacks during this phase are particularly easy to interrupt as well, despite looking intimidating.

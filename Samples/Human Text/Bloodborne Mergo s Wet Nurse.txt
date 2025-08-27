@@ -1,0 +1,22 @@
+Description
+
+Mergo's Wet Nurse is a strange towering creature with six skeletal arms and two black tattered wings. Strangely enough, the appearance of this being appears to be rather Pthumerian, despite its bizarre features, with its long, black, hooded dress and various jewels.
+
+It has the power of creating a pocket dimension with multiple copies of itself and is able to teleport, but at close range it uses six curved swords with surprising speed and range as its limbs stretch out and spin in a devastating manner, shredding enemies who get caught in the flurry of slices.
+Location
+
+    Wet Nurse's Lunarium:
+        Atop Mergo's Loft Middle in the Nightmare of Mensis.
+
+Lore
+
+Mergo's Wet Nurse is a being that guards the infant Mergo, the source of the Nightmare of Mensis. Mergo is the child of Yharnam, who is standing outside the boss room. She will bow to the hunter if they go back the way they came after defeating Mergo's Wet Nurse.
+Strategy
+
+Mergo's Wet Nurse is vulnerable to bolt, arcane, and poison attacks. Although she moves slowly, her multiple arms allow her to attack from any angle, even if the player stands behind her. The player should either stay at mid-range and bait her into using her slam attack or stay behind her and move away when she starts her blender combo. Although the initial strikes do little damage, they can stun-lock the player and leave them unable to escape. This can be potentially fatal if they are low on health.
+
+Mergo's Wet Nurse can be staggered relatively easily and this will interrupt her attacks if timed correctly. She will occasionally teleport away from the player before closing in with a lunging slash or stretching her arms. While these attacks can be evaded, they inflict massive damage if they connect. As the fight progresses, she will become more aggressive and chain her combos together, leaving less time to evade or retaliate.
+
+When the boss raises its arms and summons a glowing orb, she is about to use her Nightmare Veil attack. This will cover the room in darkness, reducing visibility and making it harder to locate her. Players can keep track of her real body by throwing a Numbing Mist on her when she summons the orb. The white mist which emits from the real body can be seen in the darkness. When she reaches 70% health, she will use a much more dangerous version of this attack that summons a duplicate of herself. This duplicate will chase the player around the room and will constantly interrupt them if they try to attack the real Wet Nurse. Whilst it can be momentarily destroyed with a single hit, it will continue to respawn until the nightmare veil wears off and it inflicts just as much damage as the boss. The player should sprint counterclockwise around the room and not slow down until the veil dissipates. As soon as the room returns to normal, the Wet Nurse will lunge at the player so they should be ready to evade immediately when the room brightens.
+
+Alternatively, thanks to Mergo's Wet Nurse short range and low arcane defense, the player can defeat her with ranged Hunter Tools like Blacksky Eye.

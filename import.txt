@@ -7,4 +7,6 @@ pip install flask
 
 powershell -> $ python3 -m pip install nltk
 
-textstat
+pip install textstat
+
+pip install --upgrade gensim

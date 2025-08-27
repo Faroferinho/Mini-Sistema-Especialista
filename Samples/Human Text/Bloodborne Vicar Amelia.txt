@@ -1,0 +1,23 @@
+Description
+
+Vicar Amelia is a high-ranking member of the Healing Church, the successor of Laurence, and to whom his Gold Pendant has been passed down.
+
+In stark contrast with the Beast Patients, people that slowly turn into monsters under layers of bandages, this woman shows perfectly what happens when a human mutates suddenly into a full-fledged Beast: at first Amelia is seen as a normal human woman with tattered white robes, kneeling and reciting a prayer, but after a few instants she changes abruptly. Her skin ruptures under the force of her new body, splattering blood all around her: now another kind of Cleric Beast, her ash blonde hair has become a long wild mane while her face, covered by scraps of her clothes like the rest of her body, has turned into a lupine head with thin antlers and a slasher smile of sharp teeth.
+
+She can extend her claws like a cat, and they are sharp and hard enough to emit sparks while grinding on stone. Her arms are powerful as well, being able to create a strong shockwave by smashing them to the floor.
+
+The same Gold Pendant that she still clutches proves to be more than a simple locket: Amelia is able to use it to channel energy in order to start healing her wounds in a pillar of golden light, thus making it function similarly to a Hunter Tool.
+
+As a "True" Beast she will take extra damage from Fire and Serration damage.
+Location
+
+    Grand Cathedral:
+        Up the large flight of stairs preceded by the great plaza with Church Giants in the Cathedral Ward.
+
+Strategy
+
+Being a beast, Vicar Amelia is weak against fire and serration damage. Rope Molotov Cocktails can be effective when Vicar Amelia is stunned. The Flamesprayer can stun-lock her and deal massive damage. Also combining the Saw Cleaver (saw form) or the Saw Spear with Fire Paper is a good choice due to the additional damage dealt by fire and the hidden +20% ATK multiplier against beasts of these two weapons.
+
+Amelia attacks mainly with her right hand, as she holds the pendant in her left (making the left side more vulnerable).
+
+When her health is below 50%, Amelia can heal herself through prayer. Attacking and staggering her will interrupt the healing. A Numbing Mist can be thrown at her to prevent healing. It is suggested that you throw the Numbing Mist immediately after she reaches 50% HP, as casting it when she starts her prayer will take time and she will heal a significant amount before it is stopped by the consumable. Each Numbing Mist prevents healing for 30 seconds.

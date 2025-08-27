@@ -1,0 +1,37 @@
+Description
+
+The Witch of Hemwick is visually an elderly hunched woman, with clothes that are covered head to toe in extracted human eyes.
+
+She is essentially an Eye Collector that has acquired enough eyes to be able to perform acts of Arcane magic. Specifically what appears to be blood Arcane spells, similar to the Brainsucker, but colored red, and the ability to become invisible.
+
+However, what makes her dangerous is her ability to spawn up to three Mad Ones at any time.
+Location
+Boss variant
+
+    Witch's Abode:
+        Up the hill near the crossroads with a steel gate and an obelisk, in Hemwick Charnel Lane.
+
+Enemy variant
+
+    Chalice Dungeons (Through the Rotted Additional Rite)
+
+Lore
+
+The Witch of Hemwick conducts suspicious rituals in the deep of the night, gathering the eyeballs of the living. Her outfit is adorned with her victim's eyes, most likely some connection to the Great Ones.
+Strategy
+Boss variant
+
+The Witches will try to attack the Hunter when in melee range. At the start of the fight, only the health bar of the first Witch is visible until that particular Witch dies. While no life-bar is shown until the first witch is killed, the second witch can be found and even damaged. Any damage done to the second Witch, before the first one dies, will be displayed in its particular health bar after the first Witch dies.
+
+When the player enters the boss room, the Witch will continually summon Mad Ones to attack the Hunter. It may be easier to avoid them all together, as each Witch is typically at opposite ends of the room. The Witch herself is invisible until the Hunter gets close, at which point she will either attack or teleport away. This will continue until the Witch's health bar is depleted. Visceral Attacks are recommended.
+
+Once the first Witch has been killed, the second Witch will appear. She is able to revive the first Witch after a short period of time. If this happens, both Witches will become more aggressive and will attempt to immobilize the Hunter with magic attacks. This can be dangerous if there a lot of Mad Ones in the room. The Witch will also attempt to grab the player and gouge out their eyes, dealing massive damage.
+
+Any surviving Mad Ones will disappear shortly after defeating the boss. The Mad Ones will temporarily still be able to inflict damage on the player for a short period of time after the Boss is defeated. Care should be taken to avoid them until they completely disappear.
+
+Alternatively, it is possible to defeat the Witches without any Mad Ones spawning as Insight is required for them to appear. Although insight is gained from entering the Boss area, you can use a Bold Hunter's Mark and spend it at the Bath Messengers in the Hunter's Dream. Upon returning to the boss fight with zero Insight the Mad Ones will not spawn, trivializing the fight.
+Enemy variant (Chalice Dungeons)
+
+The enemy variant of the Witch of Hemwick will only spawn in the chalice dungeons with the Rotted Additional Rite activated. The enemy variant of the witch differs from boss variant in a few ways. The enemy variant can summon Mad Ones much more frequently and said Mad Ones that can be summoned in will be summoned in no matter the players insight level. If the Witch that summoned the Mad Ones happens to die the Mad Ones won't disappear they will stick around, unlike the summoned Mad Ones that the boss variant has. Another difference is the enemy variant can't go invisible like Boss variant.
+
+When dealing with the enemy variant one should be swift and to get it, and quick to kill her, as the nature of the Chalice Dungeons' architecture almost always implies that the Mad Ones will be always too close to the witch for comfort. Killing the Mad Ones should only be done after her death since she will spawn them again, usually within 5 seconds, but she can only have 3 at any given time.

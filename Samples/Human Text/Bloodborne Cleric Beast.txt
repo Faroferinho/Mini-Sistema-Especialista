@@ -1,0 +1,26 @@
+Description
+
+The Cleric Beast is a huge creature with hideous, twisted horns, matted fur and a malnourished figure, and emits shrieks that sound like cries of agony. Although at first glance the Cleric Beast appears to have an emaciated and almost skeletal body, this monster has high agility, supernatural strength and a sizable amount of health. It is one of the first bosses encountered in the game, and the first boss to be revealed during the game's development.
+Location
+
+    Great Bridge:
+        At the very end of the Central Yharnam's carriage-filled bridge.
+
+Lore
+
+The Cleric Beast owes its name to a rumor that it was originally a member of Yharnam's clergy transformed by the old blood.[1] After defeating the Cleric Beast, one obtains the Sword Hunter Badge which states in its description:
+
+"One of the badges crafted by the Healing Church. The silver sword is a symbol of a Church hunter. Ludwig was the first of many Healing Church hunters to come, many of Whom were clerics. As it was, clerics transformed into the most hideous beasts."[2]
+
+This suggests that the Cleric Beast was a member of the Healing Church and possibly a hunter employed under Ludwig that succumbed to the scourge of the beast, leading to their descent into beasthood.
+Drops
+
+    4,000 Blood Echoes
+    +4 Insight (+1 for finding the boss & +3 for defeating it)
+    Sword Hunter Badge
+
+Strategy
+
+The Cleric Beast, like many other Beast enemies, is weak to both Fire and Serration damage; this allows the player to take advantage of the Molotov Cocktails in the area, as well as causing two of the three starting weapons to work well against it. The Cleric Beast can be brought to its knees by damaging its face, allowing a Visceral Attack. This can be done by tossing Molotov Cocktails or several shots with a firearm. After staggering the Cleric Beast through this method, the player must wait until it heals its limbs, which is seen by a short animation where a dull red glow briefly engulfs the Cleric Beast's chest.
+
+The majority of the Cleric Beast's attacks consist of swipes with its larger, left arm at close range and jump attacks at a distance. It possesses few attacks that hit behind itself and, therefore, it is wise to stay behind it for the majority of the time. Otherwise, repeatedly baiting the Cleric Beast's jump attack and taking advantage of its recovery time is, though not an efficient tactic, viable.

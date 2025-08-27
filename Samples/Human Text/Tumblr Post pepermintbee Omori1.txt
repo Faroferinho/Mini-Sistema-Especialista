@@ -1,0 +1,99 @@
+OMORI’s poor writing (Part 2)
+
+Once again, if you are a big fan of OMORI, this review is not for you. Treasure this game, love it, recommend it, make fan art, buy the merch, do what you will with it. I am not here to take OMORI away from anyone. Based on the overwhelmingly positive reviews on Steam, I know that my opinion is in the minority.
+
+However, just as the fans have the right to praise the game, I have the right to examine it, criticize it, and explain why it failed to provide a compelling experience. This is second part of my review where I will tackle OMORI’s problematic themes and disrespectful appropriation of mental health.
+
+Spoilers and criticism below.
+Part 2: OMORI’s message is mishandled and distasteful
+
+OMORI provides a warning that it depicts scenes of depression, anxiety, and suicide. Because the game includes these scenes, I assumed these mental health issues are presented in a way that is meaningful and respectful.
+
+However, that is not the case.
+
+Despite having depictions of such, this game is not really about depression, anxiety, or even suicide. It’s about committing a horrible crime, lying about it, and getting over the guilt.
+
+1. Suicide as a game mechanic
+
+Suicidal thoughts are intrusive, terrifying, and painful. As well as ending the victim’s life, suicide wreaks havoc on the lives of those who once knew them. It is often a taboo topic, but discussing such matters is an important step to understanding and preventing it. Video games are a medium well suited to approaching such dark topics.
+
+Unfortunately, OMORI does not handle the topic of suicide well at all.
+
+First, suicide is written as a unavoidable game mechanic that seems to have been included for shallow reasons such as aesthetic and shock value. To leave Sunny’s headspace and wake up, you–as a player–must direct him to stab himself in the stomach.
+
+ But why? It’s not like waking up involves some sort of major sacrifice. In fact, waking up is something that is more or less unavoidable. Reality should be something that snatches Sunny away from his headspace against his will, perhaps as an encroaching darkness that Sunny can run from, but never truly escape. But instead, facing reality is something you are forced to opt into in the most needlessly violent way possible.
+
+Forcing you–as a player–to literally commit suicide just to wake up from a dream is a pointless, distasteful, and disrespectful action that sets a precedent for suicide not being taken seriously in this game. (And it isn’t.)
+
+In the black space, Omori is pressured to kill a cat. In that scene, regardless of your choice, you are forced to kill yourself. However, the act of stabbing yourself has been seen so many times at that point that it has completely lost any impact. Who cares about suicide when it’s been reduced to just a means of travel?
+
+Lastly, if you fail to defeat the final boss, Sunny commits suicide in the real world. However, this is not a cutscene, it is once again something that you–as a player–are forced to do to progress. Putting these actions in the hands of a player is not as meaningful as the writer seems to believe, because there are no other options to progress. Any weight in making that decision is lost to resignation; a frustrated sigh of “Well, okay, fine. I guess I have to click Z here.” You are then rewarded with a SLAPPING pop song and a psychedelic cutscene of Sunny falling to his death. It’s tasteless to its core and appropriates the deaths of every suicidal person as a quirky, shallow “bad end.”
+
+(Seriously, this is how the writer decided to depict a child taking his own life.)
+
+2. Sunny/Omori is a poor presentation of depression
+
+Sunny/Omori does not smile. Even in past photographs before The Incident, he still is not smiling. The contrast between Sunny and his friends stands out like a sore thumb, so I assumed this was the writer’s attempt to show that Sunny is dealing with depression, where he can’t be happy even in happy situations.
+
+Of course, if that were the case it would be inaccurate since depressed people do smile and do hide their true feelings. They are often dismissed with, “You can’t be depressed, I saw you smiling once.” However, I was willing to let Sunny’s chronic frown slide because sometimes you have to oversimplify an idea to get your point across.
+
+Much to my surprise, there is NO evidence of Sunny having depression before The Incident and there is very little indication of him having depression throughout the game either. The evidence of this is that while looking at a family portrait, Sunny comments that he’s never liked to smile. Since he’s a a baby in this portrait, this goes to show that his not smiling is simply a preference – a quirky character trait that makes him stand out so that you feel an emotion during the true ending when he finally smiles.
+
+Everything in the game seems to point to him being pretty happy and well adjusted up until he killed Mari. Then, even after he killed Mari, he pretty much looks and behaves the same way. Wouldn’t it be more jarring and tragic if you saw Sunny was happy in the past, but depressed now?
+
+Which leads me to my next point…
+
+3. Sunny and Basil are not depressed, they’re guilty (and for good reason)
+
+In the book I Thought It Was Just Me (But It Isn’t), Brené Brown explains the difference between feeling guilt and shame.
+
+    Guilt means: “I did something bad.”
+    Shame means: “I am something bad.”
+
+Guilt, when attributed to bad behavior, is actually a healthy emotion. It means that you have a sense of right and wrong, that you empathize with those you’ve hurt, and it motivates you to make things right.
+
+Shame is an unhealthy emotion. It arrests growth, destroys self-esteem, causes poor decision making, isolates you from your loved ones, and is directly correlated with anxiety and depression.
+
+OMORI should be a game about overcoming shame. All the right set pieces are there. Sunny’s walled himself off, his sister (allegedly) committed suicide, and he seems to be struggling with lifelong depression. However, this all falls apart, when it’s revealed that he killed his sister and staged her death as a suicide to escape blame (with Basil’s help). He DID do something bad. It’s not shame, it’s literally guilt.
+
+All at once, OMORI stops being a game about recovering from grief and depression and becomes a game that demands the player to sympathize with a killer and liar who is hiding from his crimes. Because he and Basil feel bad about what they did, Sunny and Basil are presented as greater victims than their actual victim.
+
+4. OMORI asks you empathize with villains (with ZERO self awareness)
+
+Games where you are playing a character with a guilty conscience has been told before, but where OMORI really fails is that Sunny is not truly held accountable for what he did to others. Instead, the game focuses on HIS pain: since killing his sister he’s been isolated, he’s having nightmares, and he’s suicidal.
+
+The plot of the game is focused on helping Sunny forgive himself for ruining other people’s lives. The writing barely acknowledges how his friends/family feel about what he did. When his victims’ pain IS addressed, it’s either used to further victimize Sunny (ie: isn’t it sad for him that he made his friends so sad?) or it’s used to reassure the player that Sunny’s victims have forgiven him (or will forgive him).
+
+In fact, the game holds Mari responsible for her own death, citing that her “perfectionism” must have been what pushed Sunny to attack her. OMORI presents Mari, through headspace, as someone who accepted death gracefully and wants Sunny to live a happy life. She is never given her own voice and nothing in the game suggests she is capable of feeling bitter over her death and postmortem desecration. She plays the role of the Madonna archetype–and the perfect victim–allowing the player to empathize entirely with Sunny while accepting that Mari brought everything on herself.
+
+The climax of this game is NOT Sunny telling the truth to his friends. The climax is Sunny defeating his guilt and forgiving himself. We know this because the story does not even show how his friends respond to his confession, because– once again– what’s most important thing is resolving Sunny’s pain, not the pain he has caused others. (Though the game does heavily imply that his friends will forgive him.)
+
+Imagine, for a moment, if this game was about an abuser, who caused immense pain to someone and got away with it. Then, the whole game was about how they felt bad for the abuse they caused, and– as a player– you help them forgive THEMSELF for their past abuse. Then, in the last few seconds of the game, they either apologize to their victim or kill themself. The victim’s response is not shown because it is not important.
+
+This is the plot of OMORI, except with a bunch of excuses thrown on top to make it more palatable. Sunny and Basil are just soooo cute and sad. Killing Mari was an accident. Stringing her body up like a piñata was a juvenile mistake. The boys feel SO BAD that they want to kill themselves. And because suicide is so tragic, you– as an audience– are manipulated into empathizing them.
+
+5. In OMORI, suicide is used as a cheap ploy for sympathy
+
+As I mentioned before, suicide is horrible and tragic. People struggling with suicidal ideation need help, support, and respect. That said, let’s make one thing clear: being suicidal does not automatically make someone a good person. There are plenty of examples of criminals who kill themselves to escape the penalty or guilt for something they did. It is so common in the news that I don’t think I have to list out examples.
+
+In bad endings, Sunny and Basil’s suicides are 100% motivated by guilt for their very real crimes. Now, it should be stated, Sunny and Basil do not deserve to die. And because suicide is such an extreme, permanent end for those two boys, we– as players– are invested in preventing that tragic end at all costs.
+
+However, the looming threat of suicide is used as leverage to force the audience to dismiss the severity of what Sunny and Basil did. As I’ve said before, the plot of the game is about soothing and alleviating Sunny’s guilt and stopping him from killing himself as opposed to making things right.
+
+The worst thing is, this tactic actually works. The threat of suicide is so strong, it has distracted many players from the truth that this story is about sympathizing with a boy who has killed his sister, with little regard for those his actions have affected (see point #4).
+
+It’s terrible because suicide is such a serious topic worthy of discussion, but when used as little more than pity-bait, it twists your perception of what the characters did and silences those who try to criticize how this game handles such topics.
+
+6. Mari’s suicide being fake is a terrible twist
+
+Lastly, by revealing Mari’s “suicide” as an accidental death, OMORI misses an opportunity to tell a much more powerful story. In the first half of this game, when Mari is thought to have committed suicide at the young age of 15, is a sobering moment. That tragedy is something very real.
+
+If Mari had killed herself as opposed to being killed, Sunny isolating himself after his sister takes her own life is realistic. Mari’s death coming as a surprise is also realistic; how often have we heard people saying that they never knew someone was suffering? That they seemed like such a happy person?
+
+Losing a loved one to suicide does not just cause horrible grief, but crippling shame as well. Those left behind will blame themselves, tormented by thoughts of how they could have saved them, how they would do anything to get them back. That shame can follow you forever, haunting you like a ghost, threatening you with the same fate. Overcoming that grief and shame is no simple task, and I truly thought OMORI was going to be about grappling with grief and letting go of survivor guilt.
+
+Instead, Mari didn’t commit suicide, her life was cut short by her brother. Then, her body was staged as a suicide, forever changing how her family and friends perceived her. Her hanging body did not represent a devastating loss of life and horror of teen depression, but instead is a cheap twist that represents Sunny’s guilt for killing her and tampering with her corpse.
+
+Conclusion:
+
+As I’ve mentioned before OMORI has a lot of potential. The set pieces of a depressed kid who escapes to a dream world to cope with his unresolved trauma is one that had the makings to be very meaningful. However, it fumbles these issues, creating a sloppy plot that results in a problematic message. It’s baffling that this even happened, especially considering the length of time this was in development.

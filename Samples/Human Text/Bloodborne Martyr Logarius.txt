@@ -1,0 +1,36 @@
+Description
+
+Standing vigil against those who would seek the Undying Queen of Cainhurst for her audience, stands Logarius.
+
+After long years of guarding the access to the chambers of the queen, Logarius has become a feeble aspect of himself, almost as a walking mummy, and yet still displaying beautiful robes that befit his status. He wields a short bladed scythe, and a large serpentine dagger, complementing both with his harnessing of the Arcane.
+Location
+
+    Logarius' Seat:
+        Atop the roofs of Forsaken Cainhurst Castle.
+
+Lore
+
+Martyr Logarius was once the head of the Executioners, a fanatical partition of the Healing Church hunters, dedicated to the complete and utter destruction of the Cainhurst Vilebloods for their use of Old Blood that is, in their eyes, unholy and tainted. At some point, he discovered a "vile secret" within the castle, and took it upon himself to guard it from any who may try to uncover it. He donned the Crown of Illusions and sat himself upon his seat, to guard the place for eternity.
+
+He is mentioned in high regard by Alfred, who has the utmost adoration for him.
+
+Gehrman is later seen referring to Logarius and using the quote when discussing morality with a hunter.
+Strategy
+
+Martyr Logarius primarily uses arcane-based spells. There are two stages to this fight.
+Stage 1
+
+During the first stage, Logarius will mostly avoid engaging the player from melee range. During this time he mainly uses three spells:
+
+    Homing Orb. This spell can be avoided and he can be attacked while it is being charged. Note that he can't be interrupted, but a Visceral Attack will cause the Hunter to be temporarily invulnerable.
+    Row of Skulls. There is some spacing between the skulls, allowing the player to move in between them before the homing kicks in and merges them together.
+    Skull Explosion, both regular and delayed. These two spells make it dangerous to be within melee range.
+
+If the player is close enough, Logarius will occasionally use his scythe as a melee weapon. This attack is the only one that can be parried with a gunshot during the first stage. Note that it is probably more reliable to simply attack him normally, as he rarely reverts to melee during this phase.
+Stage 2
+
+The second stage is triggered at about 70% of his health. Logarius will charge up a large AoE for 7 seconds. While he cannot be interrupted with normal attacks during this time, he can be backstabbed by using a charged attack behind him while he self-buffs. This will cancel his self-buff and allow him to be staggered with ordinary attacks throughout the rest of the fight.
+
+Logarius will now become very aggressive and also gains the ability to levitate. He will start using his sword in his left hand. Most of the time he will swing with both weapons, rather than cast spells, making it possible to stagger him more often.
+
+Logarius can stab his sword into the ground, creating a small AoE. The sword will remain in the ground and a cloud of knives will appear above it. These knives will home in on the Hunter, dealing a small amount of damage with stun-lock properties. The sword can be destroyed by either a gunshot or an attack from a Right Hand Weapon.

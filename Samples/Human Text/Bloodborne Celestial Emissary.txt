@@ -1,0 +1,27 @@
+Description
+
+The Celestial Emissary is initially disguised as one of the numerous Celestial Minions, and its appearance changes very little when it changes phase, other than significant growth in size and eyes glowing cosmic blue.
+Location
+
+    Lumenflower Gardens:
+        Accessible through an overpass after unlocking the main gate in Upper Cathedral Ward.
+    Great Isz Chalice 2nd Layer
+
+Lore
+
+While there is very little information on it, this Great One is revealed in the DLC to have been created by experimentation by the Healing Church, who used the orphans they captured as a sort of think tank[1]. They would have their patients imbibe in water, apparently infested with otherworldly microscopic life that congealed the brain fluid (taken as the generation of the "eyes on the inside"), and listen for the sound of the ocean due to the Great Ones being linked to it by the Church in the past[2]. This would present itself in the form of a sort of "sticky" sound, which was labeled as the sound of water said to come from the depths of the ocean, and was thought to be the voice of a sort of celestial attendant that guided those with enough brain fluid "eyes" to revelation[3].
+
+Most of the patients did not survive with sanity, driven mad by the feeling of drowning, and becoming convinced that they had failed. They would plead for the forgiveness and help of Maria, an old hunter the lived in the clocktower nearby, and was in charge of patient care. She tried to comfort them by allowing them access to the Lumenflower Gardens nearby, and although it worked for some, most could not comprehend why she would care for their well being after what was going on.[4]
+
+Those that imbibed the water were deformed by the process of the body acclimating to the situation, such as increase in size, thinning of the body, and the heads expanding into blank, unseeing masses of flesh. Rarely their heads would develop tentacles in their heads, which emerged painfully but could be self induced, which caused Frenzy in lifeforms that they touched. Some were able to access cosmic power of Kin, but even they went mad and were left in the gardens, the calm of which was likely how they remained sane enough to ascend even that far.
+
+Eventually there were those who became so enlightened by what the celestial attendant said that they grew to immense size, gained blue flesh with gender neutral bodies, and could harness raw cosmic fields to Great One levels of power. But even those patients, despite the calm of the lumenwood plant that they attended, were unable to remain sane and their heads collapsed in on themselves while their power was unstable. They were left in the garden above the lumenflowers, with a large lumenwood plant in the center, and left to be living failures.
+
+It can be surmised then that the Celestial Emissary, whomever it once was, maintained their sanity long enough to comprehend the cosmos and become a Great One of the most legitimate sort. Once they figured out how to properly, the Church was likely the ones to produce Kin of the sort that the patients in the garden became, and to this day they remained in the garden. This entire area is thought to have been the Orphanage officially, where the new Great One and the other Kin acted as the Church's font of high level contemplation, and made communication with Ebrietas.
+Strategy
+
+During the fight, the boss will be disguised as one of the simple Kin, and damaging the minions does not deplete the boss's health. Physically distinguishing this boss from the rest of the horde is almost impossible, but it has no health bar above its head when targeted, and will likely stay idle while the other enemies attack. Once it is located, keep an eye out for it, to avoid confusing it with the others. Once it transforms, the best way to finish it off is to separate it from the rest of the horde. Kill or lure off the minions, then, once the boss is isolated, stay behind it. It does not have any attacks that can hit you when you're directly behind it.
+
+Once it reaches phase three, it will not use cosmic power while players are close to it, though that will be difficult due to the amount of Kin that can flank and protect.
+
+To make the fight easier, you can use a Bolt based weapon such as the Tiny Tonitrus, as the boss and Kin are vulnerable to it. You can also use a Shaman Bone Blade on the boss itself to cause the Kin to target it, which can help if you are feeling crowded.

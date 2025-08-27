@@ -1,0 +1,40 @@
+Description
+
+Micolash, Host of the Nightmare bears the caped version Student Uniform and Mensis Cage. He utilizes two Arcane Hunter Tools, including the Augur of Ebrietas and A Call Beyond.
+Location
+
+    Mergo's Loft Middle:
+        Atop Mergo's Loft Base in the Nightmare of Mensis.
+
+
+Lore
+
+Micolash, Host of the Nightmare, was most likely a former student of Byrgenwerth, until he went insane after contacting the Great Ones by using the Mensis Cage. He implies that he is aware of the Dream World.
+
+A popular theory about the Nightmare of Mensis, and Micolash in particular, is that all beings found in the Nightmare are people that attempted to make contact with the Great Ones. The Mensis Cage placed on one's head traps the thoughts of its bearer, and upon their death, are immersed into the dream as themselves or other freakish incarnations.
+
+This might explain Micolash's death quote "Now, I'm waking up, I'll forget everything." as his consciousness exists only in the Nightmare, and that upon being freed he will awake to find only his own corpse.
+
+Strategy
+
+This fight involves two phases. Each phase begins by chasing Micolash through hallways until he is cornered into a room, while dodging/defeating his summoned skeleton minions. The boss involves some puzzle-solving skills. Micolash will use the following attacks.
+
+    He will attempt to punch the Hunter when in melee range.
+    He can cast A Call Beyond; an arcane-based AoE attack that channels magic above the caster's head, then detonates, sending shooting stars in all directions, dealing a considerable amount of damage. This is only used in the second phase after jumping down through the hole in the floor. This spell can be avoided by rolling towards him or by locking on and dodging directly towards him.
+    He can cast Augur of Ebrietas. He uses this attack in both phases of the fight and it can be avoided by constantly circling around him at mid range while locked on. Quickly take a swing at him after he casts this spell, then resume the pattern. Note that any summoned puppets should be dealt with first, before attacking Micolash.
+    Since Micolash wears the Student Set, he is susceptible to Fire and Bolt.
+    Since his only abilities in combat is to deal tremendous amounts of Arcane damage, it is recommended to equip both Arcane Lake runes and the Choir Set, and potentially the Loch Shield, if one has found it.
+
+At the beginning of the fight, sprint down the hallway and take a right. Go up the flight of stairs and take the first right to find Micolash and chase him to a medium-sized room. Note that he will summon two puppets. Once he reaches half health, he will scream and disappear.
+
+Exit the room and take the first right up the stairs and fight a puppet with a whip on the bottom half of the stairs, There is also a puppet with a crossbow in the area. Continue to the top and take the first left to begin chasing Micolash again. He will drop down through a hole in the floor. Jumping down after him will cause him to run up a flight of stairs. Instead, use the broken balcony piece on the right to force him to run into a hallway, summoning two puppets and closing a gate behind him. There is a Frenzied Coldblood (9) on the other side of the balcony he jumps down from.
+
+There is a corpse that can be looted for 6 Quicksilver Bullets near the closed door. Grab them, then turn around and take a right. Head up the stairs and take a left, then take another left at the end of the hallway. Go up another flight of stairs and continue down the hallway to some more stairs. A minion will spawn at the top before a doorway. Go through the door and take a right. Follow the right wall to a ledge and a Blood Stone Chunk. Head back through the door on the ledge to a staircase leading down and a hole in the floor.
+
+Jump down through the hole to begin the second fight with Micolash. It is recommended to stay at close to medium range, to keep him from using A Call Beyond. Shooting him will interrupt the spell cast.
+
+Alternatively, in phase II of the fight, when Micolash awaits the player to drop-in from the balcony leading to the open area; and not the main fight room; from this vantage point the player can apply Bone Marrow Ash and simply shoot Micolash, as he will always stay in that same spot - waiting for the hunter to jump down and chase him. Since he will only run off when the player jumps down, he can easily be killed using bullets, Oil Urns and Molotov Cocktails, Poison Knives, or a combination of all three. This method removes the threat of the A Call Beyond attack he uses, and subsequently most of the stigma around fighting him.
+
+Avoiding the A Call Beyond is easier by waiting until the cast is about to initiate, and then, dodging into it/towards Micolash, as this move is an outward bound move, and doing so the player is able to get close to Micolash and avoid being hit by the move.
+
+Another strategy is the use of Beast Roar hunter tool. It can knock over Micolash, giving you ample time to dispense few hits with your Right Hand Weapon before he regains composure or you run out of stamina. When that happens, simply use the Beast Roar once more and repeat the process. Keep in mind to limit the usage of Beast Roar lest you run of Quicksilver Bullets and do not get too caught up with hitting him as Micolash may dodge and cast Augur of Ebrietas or A Call Beyond in a moment's notice while you have no stamina to spare for a dodge/dash.

@@ -20,8 +20,12 @@ def get_tokens_from_doc(doc):
             token.is_stop is not True and token.is_punct is not True and token.is_space is not True]
 
 
-def get_tokens_from_text(text: str):
+def get_tokens_from_text(text):
     return get_tokens_from_doc(nlp(text))
+
+
+def get_sentences(doc):
+    return [word_tokenize(sentence) for sentence in nltk.sent_tokenize(doc)]
 
 
 # This will get the frequency of which individual words apear in the text
@@ -32,11 +36,16 @@ def get_word_frequency(tokens):
 # This function will do the perplexity calculation based on the function:
 # PP(W) = 2^{-\frac{1}{N} \sum_{i=1}^{N} \log_2 P(w_i)}
 def get_perplexity(text):
-    n_grams = list(text.noun_chunks)
+    if isinstance(text, str):
+        doc = nlp(text)
+    else:
+        doc = text
+
+    n_grams = list(doc.noun_chunks)
 
     n_gram_quantity = len(n_grams)
 
-    frequency_distribution = get_word_frequency(get_tokens_from_doc(text))
+    frequency_distribution = get_word_frequency(get_tokens_from_doc(doc))
 
     entropy = -sum(frequency_distribution[ng] * math.log2(frequency_distribution[ng]) for ng in frequency_distribution)
 
@@ -69,13 +78,13 @@ def calculate_burstiness(tokens):
 def sentiment_analyser(doc):
     sia = SentimentIntensityAnalyzer()
 
-    return sia.polarity_scores(doc.text)
+    return sia.polarity_scores(doc)
 
 
 # Get the entities associated with the example
 def extract_named_entities(doc):
     # As I'm using both nltk and spacy, to avoid conflicts it is better to keep this way
-    tokens = word_tokenize(doc.text)
+    tokens = word_tokenize(doc)
     pos_tags = pos_tag(tokens)
     named_entities = ne_chunk(pos_tags)
     return named_entities
@@ -109,9 +118,9 @@ def analyse_coherence(sentences):
 
 # Apply the Flesch Reading Ease, Flesch-Kincaid Test Grade and the Gunning Fog Index to the sample text
 def analyse_readability(doc):
-    reading_ease = textstat.flesch_reading_ease(doc.text)
-    kincaid_grade = textstat.flesch_kincaid_grade(doc.text)
-    gunning_fog = textstat.gunning_fog(doc.text)
+    reading_ease = textstat.flesch_reading_ease(doc)
+    kincaid_grade = textstat.flesch_kincaid_grade(doc)
+    gunning_fog = textstat.gunning_fog(doc)
 
     return {
         "Flesch Test Reading Ease": reading_ease,
@@ -123,12 +132,12 @@ def analyse_readability(doc):
 # Get the Stylometry of the text, if it is not too verbose,
 # the punctuation frequency is off or the sentence length is too big
 def analyse_stylometry(doc):
-    sentences = nltk.sent_tokenize(doc.text)
-    words = word_tokenize(doc.text)
+    sentences = nltk.sent_tokenize(doc)
+    words = word_tokenize(doc)
 
     average_sentence_length = len(words) / len(sentences)
     verbosity_value = len(set(words)) / len(words)
-    punctuation_frequency = len(re.findall(r'[^\w\s]', doc.text)) / len(words)
+    punctuation_frequency = len(re.findall(r'[^\w\s]', doc)) / len(words)
 
     return {
         "Average Sentence Length" : average_sentence_length,
@@ -137,34 +146,5 @@ def analyse_stylometry(doc):
     }
 
 
-doc = nlp(open("Sample.txt").read())
-tokens = get_tokens_from_doc(doc)
-# Also consequence of spacy and nltk conflict
-sentences = [word_tokenize(sentence) for sentence in nltk.sent_tokenize(doc.text)]
-
-frequency = get_word_frequency(tokens)
-
-perplexity = get_perplexity(doc)
-
-burstiness = calculate_burstiness(tokens)
-
-sentiment = sentiment_analyser(doc)
-
-named_entities = extract_named_entities(doc)
-
-coherence = analyse_coherence(sentences)
-
-readability = analyse_readability(doc)
-
-stylometry = analyse_stylometry(doc)
-
-print(f"Example being Used: \n{doc} \n")
-print(f"Tokenized Text: \n{tokens} \n")
-print(f"Words Frequency: \n{frequency}\n")
-print(f"Perplexity: \n{perplexity}\n")
-print(f"Burstiness of example: \n{burstiness}\n")
-print(f"Sentiment: \n{sentiment}\n")
-print(f"Named Entities: \n{named_entities}\n")
-print(f"Coherence Between Sentences: \n{coherence}\n")
-print(f"Readability Scores: \n{readability}\n")
-print(f"Analise Stylometry : \n{stylometry}\n")
+def check_AI():
+    return False

@@ -1,0 +1,54 @@
+Description
+
+A relative of the eldritch Great Ones, Ebrietas is a monstrous creature that resembles a slug with squid-like tentacles emerging from her back. Her face appears split in half and is covered in strange growths that resemble fungus that surround her vulnerable head (only red flesh is seen, so it is possible that she has no real mouth) but, despite being a Kin (most of them have bulging and globular yellow eyes), she has only two oval shaped green eyes. Ebrietas also possesses a set of skeletal wings that grant her limited flight.
+
+The fact that this being is the conduit between the Church and the Great Ones, coupled with the title of "daughter" and her appearance, possibly shows that she is the first Celestial Child. Like most of the Kin she has gray-yellow blood but is able to spit a red fluid, similar to human blood, that inflicts Frenzy.
+
+When the player finds her she seems to be mourning (or simply sleeping) at the Altar of Despair, which appears to house the corpse of a dead being that resembles Rom.
+Location
+
+    Altar of Despair:
+        Accessible after breaking the window near the Lumenflower Gardens Lamp, in Upper Cathedral Ward.
+
+Chalice Dungeon
+
+    Great Isz Chalice, 3rd Layer.
+
+Lore
+
+The object of the Healing Church's worship, Ebrietas communes only with the highest members of the Church, guiding them in the ways of Blood Ministration. She is one of the Great Ones who was left behind in the old labyrinth, eventually discovered by the Healing Church. The Healing Church later founded the Choir to protect and study her. She is the only Great One that wants to coexist with humans.
+Strategy
+
+Recommended level: 70
+
+The fight is split into two phases.
+Phase 1
+
+Ebrietas will attack using her head, arm and tentacles when in melee range. She also uses her charge attack.
+Phase 2
+
+Phase two begins when her health is at 50%. She will begin spewing a red fluid from her head. She is vulnerable during the transition, but will begin executing random attacks soon after.
+
+Ebrietas is surrounded by arcane particles that deal damage at melee range. She can use these particles to cast arcane projectiles. She is able to use a flying slam attack (see attack patterns). She will also spit blood that causes Frenzy on contact.
+Summons
+
+Mensis Scholar Damian- Wields the Threaded Cane, Loch Shield, Choir Bell, Augur of Ebrietas, Blacksky Eye and A Call Beyond
+Orbiting Method
+
+The "orbit" will be an imaginary circle around Ebrietas that extends outward about the distance of her tentacle attack. Orbiting means moving around her by following the imaginary circle, and allows for momentum. Aim-unlock allows the ability to roll.
+Phase 1:
+
+    Get in orbit and slowly close in. In case she attacks with her tentacles quickly roll to the outside of the imaginary circle. If she uses her Head slam attack, evade and then make 2 quick attacks (R1 button) and 1 Strong attack (R2 button). If she uses her charge attack, then roll 2 times in the direction of the orbit.
+    After hitting her head with about 6 quick attacks and 3 Strong attacks, Ebrietas will become exhausted (Use a Left-Hand Weapon to deal extra damage when this happens). When she falls to the ground, use a Visceral Attack. (If she doesn't enter Phase 2, then repeat Step 1; Note that she may also begin to spit blood.)
+
+Phase 2:
+
+    During the transition from Phase 1 to Phase 2, hit her head as much as possible, but keep enough stamina for 2 quicksteps back into orbit when she gets on her feet.
+    When Ebrietas starts gathering arcane particles over her head, she is about to cast missiles. Move away when this happens. When her hands collide on top of her head, roll towards her (3 to 4 rolls are enough just stay in the orbit while evading). Note that the Old Hunter Bone bone can be used when she casts her spell.
+
+During Phase 2:
+
+        When she slams the ground with her two tentacles/arms - Attack her tentacles a couple of times.
+        When she uses her flying slam - Attack her once when she lands, evade her quick slam, and attack her one more time.
+        When she uses her charge attack - Evade, then attack her from the rear once or twice before evading again.
+        When she uses her head slam - Attack twice (quick attacks), then one strong attack.

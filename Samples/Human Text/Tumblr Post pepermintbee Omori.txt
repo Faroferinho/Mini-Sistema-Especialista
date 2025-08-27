@@ -1,0 +1,82 @@
+OMORI has poor writing (Part 1)
+
+OMORI stans, just block the #omori hate tag now because I’m going to use it to vent my frustrations with this game. If you love this game, I am not going to try to convince you otherwise. I am glad you enjoyed it so much. I am glad it means a lot to you. I’m not here to take that away from you. I honestly wish I felt the same way!
+
+However, if you are like me and finished the game feeling disappointed, underwhelmed, and maybe a little frustrated, then I am here to say you are not alone. OMORI--while having the right set pieces for an interesting game--is a narrative mess.
+
+I’m splitting this into two posts. This first post is about problems with the plot. The second is about problems with the message/moral.
+
+(Note: I use “OMORI” in all-caps for the game title, and “Omori” in title case for the character name.)
+
+Spoilers and criticism below.
+Part 1: Plot Writing Lies
+
+There’s a book by Brian McDonald called Invisible Ink which is about how to write a compelling story (you can read this great book online for free here). There’s an explanation of the writing “lie” that I find myself frequently thinking of. A “lie” in this context does not mean something is literally untrue, it means something FEELS untrue, unrealistic, improbable, or unlikely. For example, if a character gets shot in the leg but manages to do parkour, this is a “lie” since it seems unrealistic for that to happen. If a character witnesses their beloved parent’s death and shrugs it off, it’s a “lie” because that reaction seems highly unlikely.
+
+In OMORI, the plot is held together by multiple little lies that--try as I might--I just couldn’t bring myself to believe.
+
+1. Sunny’s friends care about him, and vice versa
+
+A major theme of the game is how friendship can overcome any obstacle. Friendship gets Sunny over his fear of heights, spiders, and water. Friendship is what Sunny remembers before the final boss fight, and allows him to face his guilt and defeat it (and prevent him from committing suicide). With the photobook and dialogue you are reminded over and over and over and over and over again that Sunny’s friends love him unconditionally.
+
+However, I just couldn’t bring myself to believe it. The childhood memories are cute but shallow, boiling down to simply hanging out and eating treats. Plus, Kel and Aubrey fight constantly, with Aubrey even physically hitting Kel when he steps out of line. Hero and Mari behave more like babysitters than true friends to the younger kids.
+
+But at least the other kids interact with each other. Sunny, on the other hand, showed nearly no affection or consideration towards his friends. He floats through the memories like a ghost--he could have been completely absent from all the photos and it would have made little difference. I was ready to accept this as Sunny being an unreliable narrator and not thinking he was a good enough for his friends, but this never contradicted. Instead we are given even more memories where Sunny just silently exists there being “cute.”
+
+Because of the lack of meaningful interactions between them, there was nothing in the game that made me think that these 12-15 year olds would have a strong enough bond that would survive 3-4 years of no contact after finding their friend hanged. In fact, that discovery only drove them farther apart. The only person who I could believe actually had a close bond was Basil, who almost literally filled that trope of being the friend who would help you bury a body (or in this case, help Sunny cover up the accidental manslaughter).
+
+The writing fix for this would be simple: instead of showing us the same boring birthday and beach scenes over again, give the kids memories of overcoming some age-appropriate adversity together: heartbreak over an unrequited crush, anxiety over homework, sports injury, lost dogs, divorced parents, running away from home, bullying, etc. Set a precedent of the friends supporting each other through good times AND bad times. Without such backstory, Sunny’s friendships allegedly giving him the courage to overcome his guilt feels like a lie.
+
+2. Sunny abandoning Basil in the bathroom scene
+
+One of the most confusing moments in the game was Sunny’s negligence when Basil has his first breakdown in his bathroom. This part of the game is player-controlled, which is a strange writing decision because all you can do is click on Basil and various bathroom amenities over and over which completely saps the urgency out of the scene. When you try to leave, Basil begs Sunny to stay, but (due to a lack of player options) Sunny walks out without a word. With no option to talk to him OR get help for him, it makes Sunny seem exceptionally cruel to Basil. In fact, I was starting to wonder if the game was setting up for some sort of twist that Sunny DIDN’T care about his friends, which would fix some of the confusion in point #1. However, as we know, that is not the case. Therefore, Sunny’s negligence/apathy towards Basil’s pain feels like a lie.
+
+The writing fix would be to make it MORE clear that Sunny is intentionally running away from Basil. Make it a cutscene, or, give a false choice such as “Leave Basil? Yes / Yes”. After Sunny leaves, Kel should make some remark about Sunny looking odd, “You look sort of shaken up, is there something you want to tell me?” then hit it home with Sunny shaking his head. This would make it more clear that Sunny is intentionally hiding Basil’s state, as opposed to just being a bad friend. As it stands, it just felt like a writing mistake.
+
+3. Basil and Sunny working together to stage Mari’s death as a suicide
+
+This is the plot hole that I see the most complaints over, but it’s so big I have to address it. Accidentally pushing Mari down the stairs I understand, but the rest is too absurd. Below are some of the “lies” that the writing tries to get away with:
+
+    That Sunny and Basil wouldn’t just claim she slipped and fell.
+    That either boy would even come up with this sick plan.
+    That they wouldn’t back out of this idea during the multi-step process (carrying her downstairs, outside, getting the jump rope, tying a noose, putting it around her neck, stringing her up, hiding the evidence... This is a series of multiple decisions, not one quick accident like the initial push.)
+    That it’s not the image of Mari’s death that traumatized Sunny, but the image of what they chose to do to her body that traumatized them. I understand the image of Mari hanging is more dramatic, but they literally did it themselves so why is that more haunting than Sunny killing her?
+    That Mari’s true cause of death wouldn’t be immediately obvious to the parents, the police, the friends, EVERYONE.
+    (I’ve seen fans try to get rid of this plot hole by hypothesizing that the parents knew and covered it up, but the evidence of this is circumstantial at best. The father saying, “You’re not my son,” is unreliable since it happens in Sunny’s headspace. Divorce is common after the death of a child, and, at the very least, Sunny’s mom doesn’t show any evidence of knowing what happened. The way it is written, only Sunny and Basil know the truth.)
+
+The ridiculousness of this twist is so extreme that it completely broke any immersion I had left. Frankly, the reveal that the happy, loveable Mari committed suicide is a far heavier and more realistic twist than a crazy murder-cover-up story is.
+
+Additionally, it seems like Basil was only written into this scene in order to make Sunny the true victim of what happened. After all, Sunny may have pushed her, but it was Basil who came up with the demented cover up. (This is apparent from just the photos but the datamined Truth Album confirms it.) By having Basil come up with the plan, the game splits the guilt between the two of them to make the kids easier to sympathize with. It’s problematic because if Basil was not in the scene, there would be no way to justify what Sunny did to Mari. So why is what they did easier to accept when they worked together?
+
+Fixing the writing lie: Sunny lies and says that Mari slipped. Remove Basil from the scene, and instead have Sunny confide in Basil which forces Basil to become a co-conspirator and burdens him with the terrible truth.
+
+4. Sunny’s friends forgiving him and Basil for what they did to Mari
+
+Last but not least, the story heavily implies that Hero, Kel, and Aubrey will forgive Basil and Sunny for what they did to Mari. I found this to be almost as unbelievable as the staged-suicide stunt.
+
+It feels like a lie since the group’s friendship is never established as anything beyond shallow hang outs from 3+ years ago (see point #1).
+
+It feels like a lie because this is hot off the heels of Aubrey being so distraught over Mari and the following fall out that in the last three days she 1.) attacked Sunny and Kel with a nail bat TWICE, 2.) Stole Basil’s photobook, and 3.) Shoved Basil in the lake. This trauma is still very fresh for her.
+
+It feels like a lie because the complexity of the staged-suicide is so extreme, one would be hard pressed to forgive ANYONE for doing that, be it friend, foe, parent, sibling, lover, etc.
+
+I’ve seen fans argue that the ending is not about forgiveness, it’s about telling the truth, and I want to believe that. Really. If the ending was about Sunny starting his redemption arc by telling the truth no matter what the consequences are, that would be a meaningful lesson. But the writing does not support that. The ending headspace segments are focused on assuring Sunny that his friends will support/forgive him no matter what. To do this, the game shows us the shallow photobook memories (again) to show how much they allegedly care about each other. Then, when fighting Omori, Sunny remembers these quotes from his friends, which directly correlate to their unconditional support:
+
+    KEL: Friends... Friends are supposed to be there for each other.
+
+    AUBREY: I hope you can find some peace... or you know... some happiness.
+
+    HERO: We made the mistake of leaving each other when we needed each other the most. This time... we’ll stay together.
+
+    BASIL: Maybe one day... things can go back to the way they were before.
+
+The really direct evidence that this ending is about getting forgiveness is this quote from Basil in Sunny’s headspace:
+
+This is one of the last scenes before Sunny tells his friends the truth, proving that obtaining forgiveness from his FRIENDS is in fact the leading motivation for Sunny’s actions.
+
+Fixing this writing lie is easy. Instead, adjust the writing to be about telling the truth, not about how much the friends will still love Sunny. Have headspace Basil say, “Even if they don’t forgive us, Aubrey, Kel, and Hero deserve to know the truth. It’s the only way to make things right... or close to it.”
+Conclusion
+
+OMORI is undeniably a cute game with a strong visual identity, and has a premise that could make for a very compelling experience. However, the sloppy plot and weak character writing cause the potential of this game to be squandered. There are other issues as well that I chose not to cover for the sake of time, such as the poor pacing of the dragged out dungeons and the bizarre, unrealistic behavior of characters in the “real” world.
+
+However, there are a few more glaring problems with OMORI that I have to address: In part 2 of my critique, I break down what may be the biggest problem with OMORI’s writing: the message.

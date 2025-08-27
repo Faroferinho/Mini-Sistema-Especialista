@@ -1,0 +1,47 @@
+Description
+
+Lady Maria is a young yet stoic member of the hunters. She dons the Maria Hunter Set and wields the Rakuyo and Evelyn.
+Location
+
+    Astral Clocktower:
+        Accessible after defeating the Living Failures in the Lumenwood Garden, which is located at the very top of the Research Hall.
+
+Lore
+
+According to both her equipment and her weapon, Lady Maria of the Astral Clocktower was a citizen of Cainhurst and is a distant relative to Queen Annalise. She was also one of the first hunters to join the nightly hunt. She studied under Gehrman, the First Hunter, whom Maria had admired, unknowing of his curious mania towards her. Despite being a citizen of Cainhurst, where they relished in extravagant uses of blood, she favored her Rakuyo, which instead required dexterity and skill rather to wield effectively.
+
+At some point during her time as a hunter, Maria partook in the excursion by Byrgenwerth scholars to the Fishing Hamlet, having learned of the mutations the villagers had undergone in the presence of Kos, a Great One whose corpse had washed ashore near the village. The mission would take its toll on Maria's morals, as she, alongside the scholars and other hunters, had participated in the hunting and mutilation of the villagers, and the violation of Kos's body.
+
+It is unclear what exactly Maria and the other old hunters did to Kos's body, but it can be inferred it was done to harvest the Great One's eldritch blood. Nonetheless, it was a sacrilegious action for which Maria and the other old hunters involved would suffer for eternally as they became imprisoned in the Hunter's Nightmare. At some point, likely out of guilt for her actions at the Fishing Hamlet, Maria forfeited her beloved Rakuyo, tossing it down a well when she could "no longer stomach it", supposedly killing herself as well. Her spirit was then pulled into the Hunter's Nightmare.
+
+Even after she disappeared, Gehrman remained obsessed with her. To keep himself company, Gehrman created a Doll to Maria's likeness, faithful to the latter's appearance down to her tall height and facial features. However, Gehrman grew to be indifferent towards the Doll, likely due to her lacking Maria's personality.
+Plot
+
+Maria now resides in the Astral Clocktower, looking after the disfigured patients that reside there and guarding the secret of the Nightmare: the Fishing Hamlet, where the Orphan of Kos can be found. She is seen sitting on a richly decorated chair, with blood pooling from her neck and wrist onto the floor. She is seemingly dead, but upon inspecting her, Maria grabs the Hunter's hand, then rises from her chair to fight them.
+Strategy
+
+Lady Maria begins the battle using her Rakuyo and Evelyn. She can also transform her weapon for moveset changes and fluid combo weaving.
+
+When her health is at two thirds, she will back away quickly, then plunge her blades into her chest. Not only does this cause a large burst of damaging blood, but she also unlocks powerful new moves. Using her own blood, Maria enhances both the katana and dagger halves of her Rakuyo, as the blood seems to have solidified on the blade. This will not only increase her damage, but also her attack range.
+
+When Lady Maria has one third of health left, she levitates off the ground, causing another blood explosion. She has enhanced her Rakuyo again. This time with fire damage being added to her attacks. Her blades do not change whatsoever, and still remain how they were transformed in her second phase. The change can be seen in her attacks, as every arc of blood left behind by her slashes bursts into a plume of fire. Now it is possible to get hit a maximum of two times at once, taking both Blood and Fire damage.
+
+Like the Living Failures, she does not have very high Arcane resistance, so the Holy Moonlight Sword's two-handed form is very effective.
+
+Most of Maria's attacks can be avoided by dodging to her right side at the last second. Many of her moves require her to line up her attack first, giving the Hunter time to move or prepare. If not, a well timed dodge during one of her common attack windups can be a little more risky, but will still avoid the Hunter getting hit.
+
+Maria can be staggered and knocked down like other hunters. The Augur of Ebrietas is useful for knocking her down briefly. Thus providing breathing room for the player.
+Parry Strategy
+
+Have a fast weapon and a firearm equipped. Bolt Paper or Empty Phantasm Shell can be very effective in this fight.
+
+In the first phase, stay far away from Maria. When she charges in to attack, take one of two actions. Either try to parry her, or dodge forward and slightly to the side. When parrying, note her weapons have a massive phantom hit box, and can stagger the player even if they parry correctly. Also, her attacks are fast, but have a large parry window. When dodging, note that dodging straight on will almost always result in being stun locked to death, especially in the later phases. After every dodge, attack once or twice, then create distance. On every successful parry, close in as fast as possible for either a combo or visceral. Her downed state is relatively quick, but even if the player misses, they may still get a four to five hit combo in. Try to keep a balance of normal attacks and parry attempts. She is not too dangerous in this phase, so it's best to save vials and bullets for the next phases.
+
+Phase two will start when she stabs herself, imbuing her weapons with blood. When she stabs herself, don't try to attack. The buff animation ends with a massive AoE that hits hard. Instead, use the time to heal and buff. From now on, stay very close to her. All of her attacks now have a massive blood extension that has a massive range, capable of spanning half the length of the room. Dodge forward and sideways, giving her extra space. She will be more aggressive in this stage. Parrying is more difficult now, because her attacks are sharper. It is still very possible. Keep trying to parry, as she throws long combos which are parry farms. There won't be many opportunities to heal, so prioritize staying alive over offense. Note, she will use charge attacks in this phase more frequently. When she does, get behind her and punish. Don't try to use a charged attack, because there won't be enough time. Also note that her charged attacks have a very wide reach in terms of distance and behind her, even in the first phase.
+Lady Maria's unique "Hug of Death" parry on a hunter.
+
+Phase three starts when she floats up in the air and seems to suck all the blood splattered on the floor and walls into a vortex. Again, back off, heal, and buff. There won't be many opportunities to heal, so getting blood bullets and healing is recommended. Her attacks now do blood and fire damage. Maria also gains a new attack as well. Sometimes she will momentarily cross her arms then lunge forward, staggering the player if they are too close. She will not hesitate to run up and perform her OWN visceral attack. Maria's is unique to any other parry animation in the game, as she appears to hug the player before ripping her arm out of their chest.
+
+To finish the fight as fast as possible, use any remaining bullets. Keep close to her sides, and dodge frequently. This phase shouldn't last long as both participants will be attacking like crazy.
+
+Overall, Maria fights like an experienced PvP fighter. Stay fast, parry often, and punish at every given opportunity.

@@ -1,0 +1,1 @@
+In Donkey Kong Bananza, DK follows objects of interest with his eyes. However, he has an incredibly short attention span. Whenever a new object enters his vision, his attention is drawn to it instead. If many objects are moving, he will be distracted by each new one.

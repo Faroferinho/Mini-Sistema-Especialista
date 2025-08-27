@@ -1,0 +1,40 @@
+Description
+
+Born from an unholy Pthumerian ritual which used the bodies of Yharnam's populace, The One Reborn is an amalgamate of grotesque misshapen and decayed body parts assembled to form one massive unliving creature.
+
+It has a singular giant humanoid torso attached to the entire mass which controls its entire being, though other parts of its body seem just as independently alive as the humanoid on top of the horrific creature.
+
+It has an inherent weakness to Fire and Bolt damage, but is strong against Arcane.
+Location
+
+    Advent Plaza:
+        Found at the very end of the carriage-filled road of Yahar'gul, Unseen Village.
+
+Lore
+
+The One Reborn seems to be the final, presumably failed result of an unholy experiment made in Yahar'gul with the intention of ascending humankind to the status of the Great Ones.
+Summons
+
+    Defector Antal - Wields a Church Pick and can be summoned in front of the last carriage before the boss arena.
+    Yamamura the Wanderer - Wields a Chikage and Piercing Rifle, and can be summoned if he has been killed in the DLC and the summoner has the Impurity Rune equipped without having killed Valtr, Master of the League.
+
+Strategy
+
+The One Reborn's arena is a large chapel-like building with two elevated areas on the side, with pillars running almost the full length of the them and stopping at two enclosed spiral staircases on the far end. The two sides of the upper level are connected with a bridge with two enclosed spaces in them. There are six Bell-ringing Women in total, three on each side, and they will attack hunters with Arcane projectile attacks.
+
+Due to the nature of this fight, killing the Bell-ringing Women first is advised, as they are almost always out of sight when fighting The One Reborn from below, though caution is advised as it will pursue players with certain splash damage attacks.
+
+The One Reborn's attacks are quite varied although they do have some very long windups. The physical attacks used by the One Reborn include: a swiping attack, where it will lift up its larger arms and swipe across; a flailing attack, where it will start rocking back and forth and stamping with all its legs; and a head butt, which it might use if players are on the second level. It will also lift up its body and start spewing a stream of acid onto the ground.
+
+The Arcane attacks it uses are all projectile attacks, the first being shown by the humanoid figure on top of it reaching forward with a glowing finger or by a large red ball appearing over its head, this is a projectile of body parts. The next attack will cause body parts to rain down from red balls that appear overhead and this attack will track. The last attack the One Reborn does is an A.O.E. attack where the area around it will start to glow red and it will shriek to actually deal the damage.
+
+    Any weapon equipped with Fire Paper or Bolt Paper will work well.
+    A Flamesprayer can be helpful to deal more damage and allow time for the stamina bar to refill if the boss has been brought down.
+    When the One Reborn starts spewing acid move up the stairs to avoid being hit.
+    The bell maidens will buff the boss and fire projectiles at the player. Find the staircases in the corners of plaza and kill the bell-ringing women on both sides of the upper level. Attack them from the side to avoid pushing them off the upper level. Be wary of the headbutt attack and the projectiles.
+    A plunging attack from the upper-level can deal a lot of damage.
+    A visceral attack is possible the boss is brought down. The humanoid on top is where to attack for that.
+    The boss has three lock-on points.
+    Avoid the projectiles by dodging back when a red light appears above.
+    One strategy is to attack him on the side. The boss will inflict a low amount of damage with his legs, using kicks and stomps, but rally can make up for this.
+    Hiding behind pillars or in the staircase can provide time to heal up.

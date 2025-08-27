@@ -1,0 +1,33 @@
+Description
+
+A Cleric Beast, but somehow burning with an inextinguishable flame. Oddly enough, when you first approach it to acquire the Eye Pendant, it has no reaction. Laurence will remain motionless until the player has acquired Laurence's Skull.
+
+Once Laurence has 40% of his health remaining, he tears himself apart and begins crawling towards the player, destroying his legs in the process. He constantly 'bleeds' lava out of his torso and also gains the ability to spew it from his mouth.
+Location
+
+    Nightmare Grand Cathedral:
+        In the Hunter's Nightmare, just before the large flight of stairs that is preceded by a great plaza filled with Beast Patients and Old Hunters.
+Lore
+
+One of the scholars at Byrgenwerth. The discovery of the old blood inspired Laurence, who believed the healing properties of the old blood were of divine nature, and was the ideal medium to transcend humanity through transfusing it into human bodies. Despite this, Provost Willem held distrust towards the substance, believing the material to be far too dangerous. Given that the Beast rune of Caryll is transcribed by him personally from the sound of a labyrinth beast, it could be that the nature of beasts was already known to Willem, and that he found the risk too high.
+
+The two had a falling out, and unable to convince his master otherwise, Laurence took his leave, but promised to remember Willem's warnings on the danger of blood, and fear it. Even though he felt betrayed, Willem prayed that his student kept that promise. Laurence travelled to Yharnam along with Micolash, Gehrman, Maria, and many other scholars, showing the healing properties of the ministration of old blood and eventually forming the Healing Church, becoming its first Vicar while distributing the healing blood throughout the entire city of Yharnam. But when infected blood began circulating, Laurence was among those who fell victim to the plague and transformed into the first Cleric Beast in history, and put to death.
+
+He was revealed in the DLC to have some part in the slaughter of the Fishing Hamlet, and due to the curse laid on the hunters by Kos, Laurence was imprisoned in the Hunter's Nightmare. Left to burn for all eternity without memory, he is destined to seek the representation of his former life and mission in vain, as punishment for his misdeeds.
+Strategy
+
+Laurence is doubtlessly one of the fiercest and deadliest bosses that players could ever go against.
+
+He has, for the most part, the same exact moveset of the regular Cleric Beast. The catch, however, is that all of his attacks will create a lingering flame that deals absurd amounts of damage. As such, he can easily slaughter any player in a matter of a few hits, and all of his attacks have extreme range from the fire that lingers. Worse even still is the fact that most of his attacks that hit the ground will create area-of-effect bursts of fire that can range from small to very large, dealing a lot of damage at all times.
+
+The first phase is as stated before, that of the Cleric Beast moveset with lingering flames, dealing tremendous damage. It is recommended to go quite slowly and try to whittle him down, little by little, ensuring that a safe distance is kept, and that does not hit players burst of fire or his claws. Firing at his head will eventually bring him down to his knees, allowing one to engage in a Visceral Attack.
+
+At one third of his health, he initiates his second phase.
+
+This phase is quite "interesting" because his legs give into his own weight and simply explode, and Laurence becomes a torso with arms, constantly bleeding lava from his open wound. If that wasn't enough, he now becomes alarmingly aggressive, rushing players by dragging himself repeatedly with his claws and for every hit on the ground, a large fiery burst is created from the impact. This can quite easily stunlock players to death, so staying on his right side is strongly recommended. Players cannot stay behind him as he will also keep bleeding lava from his torso.
+
+His attacks will now also include large swipes with his claws that cover a wide area, and what equates to a flooding of lava that his spews from his torso into a giant lingering magma pool, or, more dangerously, from his mouth, at the player, which creates many small pools of lingering lava.
+
+The key to this phase is to stay close at his side at all times and to try and dodge as little as possible when he rushes the player. Standing far from him will trigger his rushing attack, and if such a thing happens, try to dodge to the left as he hits his own left hand on the ground to evade the burst of fire in time.
+
+Alternatively, on his second phase, Laurence is slow and vulnerable to ranged attack, players can safely deal with him from a distance with either their Hunter Tools and firearms.

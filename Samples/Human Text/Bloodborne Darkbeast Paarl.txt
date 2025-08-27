@@ -1,0 +1,25 @@
+Description
+
+The Darkbeast is a giant skeletal beast with long strands of blueish black hair that emanate electricity throughout its entire body. Its bones and skull appear to have engravings on them, perhaps a side effect of the lightning that permeates its very being.
+
+True to its electrical nature, the lightning that courses through its body makes it move in erratic, off-speed movements that keeps its foes constantly on the move. It also allows the Darkbeast to bombard the players with bolts of lightning. The Darkbeast is like any other beast in that it is vulnerable to Fire damage and Serration. Despite this, and very curiously, it is much weaker to Arcane than it is to Fire.
+Location
+Darkbeast Paarl
+
+    Hypogean Gaol:
+        Through the caved hole in the cell chamber with Kidnappers.
+
+Loran Darkbeast
+
+    Lower Loran Chalice:
+        3rd Layer Boss.
+    Lower Loran Root Chalice:
+        Final Layer Boss.
+
+Strategy
+
+The Darkbeast is incredibly aggressive and agile, despite his size. He will constantly strafe to evade attacks and will strike at the player if they attempt to close in on him. Staying underneath or behind him will avoid most of his attacks but he will repeatedly use Static Discharge to force them back into melee range. The player should move away as soon as he screams and raises his head. As all of the Darkbeast's attack inflict Bolt damage, Henryk's attire can reduce the damage taken.
+
+Inflicting enough damage to the Darkbeast will cause it to collapse and lose his electricity aura. All attack damage will be doubled and it is possible to use Visceral Attacks, although attacking his head can be equally effective. The Darkbeast will attempt to put enough distance between himself and the player in order to recharge his aura, by attacking aggressively and keeping him at close range, the player can prevent him recharging. However the Darkbeast will automatically restore his aura when below 66% health which triggers the second stage of the battle.
+
+The Darkbeast becomes even more aggressive in phase two and will often finish his combo attacks by generating bolts of lightning. Standing in front of him is no longer a safe strategy as his attacks become relentless and unpredictable. The player should continue attacking him from behind or underneath in order to cripple him, whilst watching out for Static Discharge. The key to beating the Darkbeast is to cripple it quickly and then inflict as much damage as possible before he can regenerate his aura. It is very vulnerable to fire damage, so it is recommended to bring plenty of Fire Paper and Oil Urns to the fight.

@@ -1,0 +1,30 @@
+Description
+
+Amygdala are monstrous entities with spider-like bodies, a short tail and a head which is very similar to a part of the brain called the amygdala or amygdaloid body. Their many bulbous eyes bulge when they use arcane attacks. They have six-fingered hands on their seven arms, and reptilian talons on their two legs. Many also sport tendrils on their faces.
+Locations
+Non-boss variant
+
+    Cathedral Ward: Holding on to Oedon Chapel.
+    Grand Cathedral: Inside the abandoned church to the right of the cathedral, near the giant gate.
+    Yahar'gul, Unseen Village: Many of them scattered around.
+    Hunter's Nightmare: A corpse of an Amygdala is seen in the area with the stationary guns controlled by a Huntsman.
+
+Boss variant
+
+    Amygdala's Chamber: Past the elevator shortcut in the Nightmare Frontier.
+    Cursed Pthumerian Defilement: 3rd Layer boss.
+    Lower Loran: May appear as a possible boss.
+    Isz Gravestone: May appear as a possible boss.
+
+Lore
+
+Amygdala[1] are Great Ones[2] that appear to be some of the most widely-revered of their kind. This is indicated by the numerous statues of them lining the Cathedral Ward and Yahar'gul, Unseen Village. A much larger statue, which appears to be part of a shrine, is located in the church of the Hypogean Gaol. Many Amygdala populate the world, dwelling atop the sides of various large buildings. One Amygdala came to inhabit an area in the Nightmare Frontier known as Amygdala's Chamber.[1]
+
+Patches the Spider is seemingly one of the most devoted of this Amygdala's worshippers and offers sacrifices to his "God" through the use of the Tonsil Stone, transporting them into the Nightmare Frontier. However, after The Hunter slays the Amygdala, he expressed no remorse or anger, merely believing they "bestowed salvation" upon the entity.[1]
+Strategy
+
+Amygdala will primarily attack with sweeping attacks from its arms and stomping attacks if the player is close enough to one of its feet. It will also fire a laser like weapon from its eyes periodically if the player is attacking from the front. At approximately half health, it will begin leaping out of view and attempt to crush the player, which can typically kill a player in a single blow even at full health.
+
+Its primary weak point is its head, which will lower to the ground periodically after certain smash and sweeping attacks, and can be struck with a weapon with long reach. Visceral attacks can also be performed on its head with a well timed charge attack on its head to stun it.
+
+Amygdala is surprisingly susceptible, for a boss, to ranged weapon attacks to the head. The Hunter Pistol can damage approximately one-third its health with minimal Bloodtinge skill and 20 QS bullets. This is effective when Amygdala is near death, as it will remove a set of its limbs for its sweeping attacks, which will almost double its effective range.

@@ -1,0 +1,68 @@
+Description
+
+Despite her title, Rom resembles a gigantic pillbug rather than an arachnid. She has a silverfish-like tail and a bulbous body from which plant-like appendages appear to be growing, resembling Coldblood Flowers. Her face resembles a chunk of pumice and is covered in eyes, suggesting its connection to the Great Ones. Rom is initially non-hostile until provoked, at which point she will use powerful Arcane attacks to defend herself.
+
+Rom is accompanied by creatures known as the Children of Rom. They resemble actual spiders, but with the same shaped head and appear to have bladed legs. These spiders are possibly either the literal spawn of Rom or were created in order to defend the creature.
+Location
+
+    Moonside Lake
+        Found in Byrgenwerth, after jumping into the water from the balcony where Master Willem is located.
+
+Chalice Dungeon
+
+    Rom can be found as an optional boss in Chalice Dungeons.
+
+Lore
+
+Rom, the Vacuous Spider controls the barrier that prevents normal humans from seeing the true horrors around them, such as the Lesser Amygdalae crawling around Cathedral Ward. Rom was once a scholar of Byrgenwerth who at some point went through metamorphosis into a Kin courtesy of Kos, according to dialogue given by Micolash.
+
+        "The Byrgenwerth spider hides all manner of rituals and keeps our lost master from us. A terrible shame. It makes my head shudder uncontrollably." - Note from library area just beyond the Tomb of Oedon.
+        "The spider hides all manner of rituals, certain to reveal nothing, for true enlightenment need not be shared."  - Note from the second floor of Byrgenwerth.
+        "Ahh, Kos or some say Kosm... Do you hear our prayers? As you once did for the vacuous Rom, grant us eyes, grant us eyes." - Micolash, Host of the Nightmare.
+
+Strategy
+
+This fight is broken up into three (3) phases.
+Phase 1
+
+Rom will spawn numerous spiders to surround and guard her. They move rather slowly but can deal a lot of damage if the Hunter has low Vitality. Like Rom, the spiders have armored heads and vulnerable bodies. It's best to attack them from behind or bait out their jumping attack. Alternatively, attacking their heads three (3) times will wear away the armor.
+
+The spiders can be killed before attacking Rom or completely ignored. During this phase, Rom will be non-hostile and will retreat whenever approached. Once enough damage is dealt, Rom will teleport to a different location and start the next phase.
+Phase 2
+
+Rom will spawn more spiders and begin using arcane attacks. When the Hunter is at mid to long range, Rom will summon arcane crystals from the sky. When the Hunter is at close range, Rom will either do an AoE blast or summon crystals from the ground.
+
+Once enough damage is dealt, or enough time passes, Rom will teleport to a different location and start the next phase. If the player deals enough damage during her teleporting animation, she staggers, and remains there briefly before attempting to teleport again.
+Phase 3
+
+This phase will be the same as phase 2, only this time, Rom will flail around if the Hunter is close to her body. Beware, as her flail attack is most deadly near her head, and also more difficult to anticipate.
+Conclusion
+
+After the battle, approach Yharnam, Pthumerian Queen for a short cutscene. The Hunter is then teleported to the Cathedral Ward with the following message:
+
+    "Ritual secret broken.
+    Seek the nightmare newborn."
+    The nightmare newborn mentioned is Mergo.
+
+Summons
+
+It is possible to summon multiple NPCs into the fight for the fight against Rom.
+
+    League Confederates (You must have the Impurity Rune equipped to summon them.)
+        Old Hunter Henryk- Wields Saw Cleaver, Hunter Pistol, and Throwing Knives.
+        Younger Madaras Twin- Wields Hunter Axe, Hunter Blunderbuss, and Madaras Whistle.
+    Mensis Scholar Damian- Wields Threaded Cane, Loch Shield, Choir Bell, Augur of Ebrietas, Blacksky Eye and A Call Beyond (doesn't require Impurity Rune).
+
+Strategy
+
+Rom has minor weaknesses against fire. Applying Bolt Paper or Fire Paper to a weapon will help deal extra damage. The Tonitrus is very effective, as Rom is a Kin Great One and Kin will take extra damage from Bolt.
+
+The most common strategy is to ignore the spiders completely and use hit-and-run tactics. Run in a small figure 8 around Rom until an opening is found. Attack a few times, then retreat. Keep an eye out for the other spiders.
+
+However, the most effective strategy is to strike down the spiders while not taking eyes off of Rom to ensure that she does not employ meteor showers, arcane blasts or attempt to body slam you in later phases. Make sure to attack a spider and roll away as another spider will likely attempt to attack you. Never strike Rom's head or a spider's head. You will do pitiful damage.
+
+Another strategy is to stay just behind Rom's head and attack using the Flamesprayer. This will cause her to constantly retreat due to the continuous damage. It's recommended to kill the spiders first when using this method.
+
+An even better tactic is to get a summon and have both of you use the Flamesprayer. The continuous hits and damage will prevent her from teleporting and starting the next phase.
+
+When encountering Rom in a Chalice Dungeon, the pillars in the room can block her meteors. It is also much easier to isolate and eliminate the spiders as they tend to be spread out around the boss room rather than cluster around Rom. Rom also is more aggressive in the Chalice dungeon and you will likely need to back off many times.

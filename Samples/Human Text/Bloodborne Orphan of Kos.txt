@@ -1,0 +1,74 @@
+Description
+
+The orphan appears to be a Human/Great One offspring of the deceased Kos; the Orphan is a tall, skeletal humanoid. Its mouth is permanently fixed in a rictus and it constantly screams throughout the fight. A thin membrane is draped across its back like a cape, this transforms into a pair of wings when the Orphan enters its second form.
+
+The Orphan wields its placenta in combat akin to a club or flail, and it can tear pieces off to use as explosive projectiles. After it transforms, the placenta mutates into a weapon resembling a gigantic axe or glaive.
+
+Upon encountering the Orphan, it will initially ignore the player and stare up at the sky mournfully. However, once the player approaches, it will fly into a fit of rage and begin the final battle.
+
+After its "death", it will drop the Kos Parasite, and its black phantom can be found near the “head” of Kos' corpse. Attacking it will result in it dissipating and a "NIGHTMARE SLAIN" message (similar to Mergo's Wet Nurse).
+
+This black phantom is "technically" the true Orphan of Kos, and simply manifested itself as a physical being within the Nightmare.
+Location
+
+    Coast:
+        On the left side after having accessed the lift shortcut near the Lighthouse Hut lamp, in the Fishing Hamlet.
+
+Lore
+
+Mentioned as the "poor wizened child" of the being Kos, it can be theorized that the desecration of Kos by the old hunters lead to the death of this infant Great One, causing it to fade into a plane similar to limbo. In retaliation for that saddening fate, the devoted mother Kos laid the curse of blood upon the old hunters responsible for their earthly deaths, and upon those who followed in their blood-lusting footsteps. Drunk with blood, the later hunters would join the old hunters in the limbo of the Orphan of Kos, referred to as the Hunter's Nightmare.
+
+Once it has died, the spirit will linger with the corpse of the mother until slain, which pleases Kos to the point of her lifting the hunters' blood curse of the Nightmare. Why she does this is uncertain, but a voice declares with relief that the child has returned to the ocean, implying either the child has returned to life on earth or that killing it within limbo now frees it to traverse the cosmos unhindered by the limbo inflicted on it.
+Moveset
+
+1st phase/33%+ health
+
+    Slash: Swings placenta for heavy damage. Dodge to HIS right side.
+
+    Plunge: Jumps backwards & slams weapon into the ground, small AoE. Dodge backwards or sideways, it leaves him vulnerable.
+
+    Blood Orb: Swing & throws a single volleyball-sized projectile that staggers & gives medium damage. Dodge sideways.
+
+    Leaping Slam: Jumps & slams into the ground. Knocking down the player & dealing considerable damage. Simply walk fowards behind him if you are at a reasonable distance. If you are too far, then roll behind him or beside.
+
+    Placenta Spin: Swings the placenta around like a yoyo. Dodge forward, as the string he swings it by does not have a hit box, or run back if you need to heal or buff. Attempting to dodge backwards however is inadvisable.
+
+    Blood Orb Variant: Instead of throwing the orb at you, he will slam his hand into the ground and an orb will spawn infront of him on the ground. This orb will explode shortly after he plunges his hand into the ground, creating a large 360 degree AOE eruption. Simply run past him or dodge to the side as quick as possible, as this deals splash damage and will catch you if you try to dodge into/out of it.
+
+    Placenta Drag: Orphan will drag his mothers placenta along the ground and run quickly towards you. He will follow up with a vertical slash sending you into the air. Dodge to your left (His right) to avoid this attack.
+
+    Placenta Pancake: Orphan will raise his mothers placenta above his head and slam it into the ground dealing heavy damage. This attack will flatten you. Dodge to the side to avoid this attack.
+
+    Placenta Extend: Orphan will extend the placenta, dragging it across the ground infront of him in a 180 degree radius. Be careful as he can do this twice consecutively. Dodge into the placenta to avoid. (Right, Left)
+
+2nd phase/low health
+
+    Blood Scattershot: Launches 4 blood projectile in 1 swing. The orbs scatter & none go straight forward. Dodge forward & attack.
+
+    Swing: Swings repeatedly, but doesn't turn much. Dodge behind & attack. Dodging into him can also work.
+
+    Leaping Slam: Often overshoots. Roll forward when his jump breaks your lock-on. Attack from behind.
+
+    Heavenly Thunder: Creates a small storm for high bolt damage. Targeted & announced by static electricity. Avoid area for 3-5 seconds.
+
+    Blood explosion: Like Lady Maria, screams and causes a wave of blood to explode from the ground. Stay back.
+
+Strategy
+
+Orphan of Kos is one of the hardest bosses in Bloodborne and he heavily punishes players with passive playstyle. Play aggressively.
+
+It is advised not to duo co-op against this boss as his health pool will be increased and his move set in phase 2 becomes more unpredictable especially his blood orb attack.
+
+If you need time to buff yourself, or psychologically prepare, the boss won't attack you unless you cover 2/3 of the distance between the entrance and him, giving you plenty of time to use paper and beast-blood pellets. You can also easily fill your beast meter by killing the passive enemies outside the arena.
+
+When fighting him, avoid the beach and fight him in the water as the terrain is less uneven. Also, the lightning starts from the corpse of Kos, his mother, and it spreads thinner the further it travels, so it's best to fight him off-shore.
+
+In his first phase, he's less aggressive, and players can safely attack him from a distance with their ranged weapon or hunter tools and try to keep an eye on his plunging attack. When he performs this move, he's open and vulnerable for a backstab, simply quick step forward a little, and perform a fully charged attack on his back. Also, players can use Augur of Ebrietas on his back to perform a backstab. Most of his moves still have a fair enough parry window, which can be learned with some practice.
+
+In his second phase, players must play aggressively as his moves will have further reach and speed. Use a fast weapon and quickly close in to attack him after dodging his attacks. If possible, use weapons with Bolt or Fire damage or buff it with Fire Paper or Bolt Paper as he's weak to those elements.
+
+When the orphan holds his placenta with both hands and starts his rushing attack, do not dodge backward as the orphan will continuously chase the players, try dodging sideways.
+
+When he stops and calls for help from his mother, players should get offshore as fast as possible to avoid the lightning, which can one-shot low vitality player at close range, but is well-spaced enough to be easily avoidable at far range. Alternatively, the players can run toward the entrance, as the lightning cannot reach there.
+
+If you are in any way religious, it is also heavily advised to pray as much as possible to your god of choice for help, as killing this boss will most likely be the most painful thing you’ll ever have to do in your life. Losing faith in god during the fight due to the mental anguish caused is not uncommon. Having a therapist close by for immediate emotional assistance is also wise, as emotional co-op will not affect the Orphan’s damage or health pool and you will probably need it.

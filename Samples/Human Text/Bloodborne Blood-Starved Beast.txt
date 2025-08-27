@@ -1,0 +1,43 @@
+Description
+
+The Blood-starved Beast is a deformed, quadrupedal creature whose skin is peeled off and hanging from its back. Much like the Cleric Beast, it also has a malnourished, skeletal appearance. However, unlike the latter, the Blood-starved Beast fought as a boss is so malnourished and devoid of blood that it instead bleeds poison. Although it may look like a weak creature at first sight, its erratic and nimble movements make it a formidable foe for hunters.
+
+The Blood-starved Beast is generally the third or fourth boss of the game depending on how the player explores the Cathedral Ward.
+Location
+
+    Church of the Good Chalice:
+        Located at the very bottom of Old Yharnam, past the shortcut tower near the lamp.
+    Hunter's Nightmare:
+        Inside the dark cave in the blood river, as a mini-boss, without multiple stages.
+
+Chalice Dungeons
+
+    Hintertomb Chalice:
+        Layer 3, dropping the Lower Hintertomb Chalice.
+    Ailing Loran Chalice:
+        Layer 2, where it drops the Ailing Loran Root Chalice.
+    Can be rarely Found in a Root Chalice as a roaming boss.
+
+Lore
+
+It is suggested that the Blood-starved Beast was a person receiving blood healing as a part of rituals performed by Healing Church members in Old Yharnam in order to learn more about the Great Ones and the effects of blood healing. This is demonstrated by a corpse of another Blood-Starved Beast that can be found crucified and chained in the Ritual Hall of Old Yharnam.
+
+Moreover, below the corpse, the player finds ritual blood. This suggests that the Blood-starved Beast has some connection to ritualistic practices performed by the Healing Church and has some significance to Blood-Healing and its administration. In this case, it is well possible that these Beasts "must" be skinned alive in order to collect their blood without killing them, since they would simply regenerate minor cuts or surgical shunts.
+
+It is not unlikely that these beasts were once Blood Saints, the Healing Church's nuns chosen to be sources of healing blood: this would explain both why these beings are "blood starved" (they were skinned to take their blood) and why there are similarities to the Female Beast Patients.
+
+In Bloodborne: The Death of Sleep, a specific Blood-starved Beast relentlessly pursues the hunter and The Child on their travels until it is finally put down by the latter.
+Strategy
+
+The Blood-Starved Beast primarily uses frontal attacks. Its attacks cause poison buildup in later stages. It also has a grab attack that does massive damage.
+
+There are three stages to the fight:
+Stage 1
+
+The Blood-starved Beast will mostly use a forward charging attack. It has a long telegraphing animation and can either be dodged or used as an opportunity to close in and attack. When it raises its right arm to attack, stagger it with a gunshot, then perform a Visceral Attack on its head. The player could actually walk under its arm when it raises it for attacking. Also, since it moves slowly in the first phase of the fight, you can abuse the entire first phase to deal damage by shooting and using throwing knives.
+Stage 2
+
+Stage 2 begins when the Blood-starved Beast has about 2/3 of its health remaining (signaled by a shrill scream). Attacks during this stage will last longer and have longer range. The Blood-starved Beast's front attack animation during this stage is a multitude of hits, but can still be staggered just as it begins its attack cycle. It will still charge forward, and can now perform a grabbing attack that will inflict poison. If it begins closing in, back step repeatedly to avoid getting hit.
+Stage 3
+
+Stage 3 begins when the Blood-starved Beast has 1/3 of its health remaining (it will let out another shrill scream). During this last stage, the boss gains a permanent poison aura, so being within close proximity can poison the Hunter (Antidotes can counter this). Also, it will dodge to a safe distance after almost every attack, leaving only small windows to attack it. Try to stagger the Blood-starved Beast as much as possible, as poison does not take effect if it triggers during the visceral attack animation.

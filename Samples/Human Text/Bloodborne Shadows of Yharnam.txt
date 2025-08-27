@@ -1,0 +1,45 @@
+Description
+
+The Shadow of Yharnam consists of three figures shrouded in black robes. As the fight progresses they are revealed to have been infected with the parasitic snakes that infest the woods and undergo gruesome mutations. They share a symbiotic link with the vipers, either transforming their arms to use them as whips or summoning gigantic serpents to devour victims.
+
+This fight involves three enemies, all of which are vulnerable to Bolt-type attacks.
+
+    Shadow #1: Uses a mace and casts long-range, semi-homing fireballs.
+    Shadow #2: Wields a large scimitar and a candlestick that acts as a flamethrower.
+    Shadow #3: Uses only a large scimitar, but is the most aggressive of the three.
+
+They are servants of Queen Yharnam, as their name implies. However, unlike other Shadows, they are infested with the parasytic snakes found inside the Forbidden Woods, making them a tough challenge when compared to the other Shadows.
+Location
+Boss variant
+
+    Forbidden Grave:
+        In a gated cemetery at the end of the Forbidden Woods.
+
+Enemy variant
+
+    Mergo's Loft Middle
+    Chalice Dungeons
+
+Strategy
+Boss Encounter
+Phase 1
+
+Shadow #1 is slower than the others and can be killed first by luring the other two away from it. Focusing all damage on one target will make it possible to avoid fighting all three Shadows in the second phase. The large tombstone can be used to separate the bosses and block the fireballs from Shadow #1.
+Phase 2
+
+When the total amount of damage inflicted upon these enemies equals 75% of one Shadow's health, all Shadows will enter phase two, undergoing a change in tactics and appearance.
+
+Both Shadow #2 and Shadow #3 can now shoot tentacles out of their arms to whip or stab players. These tentacles have considerable reach and the Shadows will often use it when at a distance. Shadow #2 also ignites its katana, adding fire damage to its attacks.
+
+If Shadow #1 survived phase 1, he will now shoot mortar-like AoE fireballs that explode when they land. This move is short range, however.
+
+Shadows gain the ability to summon snakes with a large AoE once phase 3 begins, so it is recommended to whittle down the health of both Shadows in this phase before killing one of them.
+Phase 3
+
+Phase three will begin when either a single Shadow remains or if both remaining Shadows' health is very low.
+
+As stated in the phase 2 section, Shadows gain the ability to summon snakes. The Shadow will crouch down and surround itself with a ring of light and eerie chanting will be heard, a few seconds later, the giant snakes will emerge randomly in the arena. Whilst it is possible to stagger the Shadow and prevent the summoning, this can be very risky. It is safer to keep moving and roll if the snakes attempt to lunge at the player.
+
+Only one snake will be summoned to begin with but a maximum of three will appear if the player doesn't eliminate the final Shadows quickly. As multiple snakes can be very challenging to avoid, it is vital that the player does not prolong the battle.
+
+If Shadow #1 or Shadow #2 are the last remaining Shadow, they will attempt to back away from the Hunter, in order to summon snakes. They will often get stuck in the gravestones against the wall when this happens, allowing the Hunter to stun-lock them and finish off the boss.
